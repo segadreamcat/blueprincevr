@@ -59,20 +59,24 @@ For a manual installation, use the Manual ZIP's included README. It includes roo
 | VR options during play | Hold both stick clicks |
 | VR options at the title screen | X |
 
+Trigger and grip replace the PC's **E key** interactions: use trigger to interact, grip to pick up or hold an item, and trigger + grip to use a held item.
+
 Select smooth or snap turning in VR options. X and Y stay on the left controller when changing your dominant hand. SteamVR bindings may differ.
 
 ### Computers
 
+Keyboard calibration is included with the mod, so you should not need to recalibrate before playing.
+
 Touch terminal keys with your fingertips. A/B and the sticks also operate Enter, Escape and the arrow menu keys.
 
-To recalibrate at a computer:
+**If you have keyboard issues**, such as touches not lining up with the keys, try recalibrating at a computer:
 
 1. Hold both grips for three seconds.
 2. Touch Q with your right index fingertip, then press A.
 3. Touch P with your right index fingertip, then press A.
 4. Touch Z with your right index fingertip, then press A.
 
-Calibration is shared between computers. The Security terminal still needs gameplay confirmation in this build.
+Calibration is shared between computers, so you do not need to repeat this at every terminal. The Security terminal still needs gameplay confirmation in this build.
 
 ### Other Interactions
 
