@@ -1,0 +1,27 @@
+This folder is deliberately empty.
+
+The build references assemblies that belong to the game and to MelonLoader, so
+they are not redistributed here. Copy them in from your own installation:
+
+From  <Blue Prince>\MelonLoader\Il2CppAssemblies\
+  Assembly-CSharp.dll
+  Il2Cppmscorlib.dll
+  Il2CppPlayMaker.dll
+  Unity.TextMeshPro.dll
+  UnityEngine.dll
+  UnityEngine.CoreModule.dll
+  UnityEngine.PhysicsModule.dll
+  UnityEngine.InputLegacyModule.dll
+  UnityEngine.ImageConversionModule.dll
+  UnityEngine.AudioModule.dll
+  UnityEngine.UI.dll
+  UnityEngine.UIModule.dll
+
+From  <Blue Prince>\MelonLoader\net6\
+  MelonLoader.dll
+  0Harmony.dll
+  Il2CppInterop.Common.dll
+  Il2CppInterop.Runtime.dll
+
+From  <Blue Prince>\Mods\
+  BluePrinceVR.dll        (the Codex VR mod this one patches)

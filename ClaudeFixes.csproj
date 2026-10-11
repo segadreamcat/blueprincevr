@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>BluePrinceVR.ClaudeFixes</AssemblyName>
+    <RootNamespace>ClaudeFixes</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>none</DebugType>
+    <NoWarn>$(NoWarn);MSB3277;MSB3270;CS0436</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="refs/*.dll"><Private>false</Private></Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="BPVR_VR.png" />
+    <EmbeddedResource Include="BPVR_puff.png" />
+    <EmbeddedResource Include="BPVR_smoke.png" />
+    <EmbeddedResource Include="BPVR_select.png" />
+  </ItemGroup>
+
+</Project>
