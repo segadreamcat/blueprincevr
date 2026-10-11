@@ -1,0 +1,174 @@
+{
+  "Build": "2.10.57 + current installed VR fixes / installer 1.0",
+  "Files": [
+    {
+      "Sha256": "850437531eb2a4fea3bf5582c21b8fbff5f8ea5ff77c2ef0b1fe7890e7c856b3",
+      "Path": "Mods/BluePrinceVR.dll",
+      "Size": 349696
+    },
+    {
+      "Sha256": "efad100e5d3e0dc4061f65dcdcedc3bf67ec5cc06d76716e96af19bde287ab62",
+      "Path": "Mods/BluePrinceVR.ClaudeFixes.dll",
+      "Size": 41472
+    },
+    {
+      "Sha256": "7048be4b78223b84c158a185236b3f19bb132c346730b58d69836e2d26135a36",
+      "Path": "Mods/BluePrinceVR.Fountain.dll",
+      "Size": 9728
+    },
+    {
+      "Sha256": "6fd5d12a31dd7a303a087527fe085f3a9342c102e1891fefd22c20c4c6d08c85",
+      "Path": "Mods/BluePrinceVR.JournalArt.dll",
+      "Size": 12288
+    },
+    {
+      "Sha256": "c9cb20293f01cb49abd873c0be17505ab9176b97f35e209eabc8841c178f45e5",
+      "Path": "Mods/BluePrinceVR.RecorderPolish.dll",
+      "Size": 28160
+    },
+    {
+      "Sha256": "bab8ac6ef64e68a9ca53315b0014d131088584b2efdfa6db511d67ec03cfcb4a",
+      "Path": "openvr_api.dll",
+      "Size": 837272
+    },
+    {
+      "Sha256": "e0f0ba2fda3fc45f4ca889b78c8c507818a11d11aaf4411eb10eb2cccb46557c",
+      "Path": "OPENVR-LICENSE.txt",
+      "Size": 1486
+    },
+    {
+      "Sha256": "bd69666f6c102c5d81cd09e77e47311ce89fe78b56eaff2bfe40ff3e9d26d1a6",
+      "Path": "Mods/BluePrinceVR-Codex/arms.bpvr",
+      "Size": 177879
+    },
+    {
+      "Sha256": "63a3dda743a9fb041c12c1277b3030fb1164b48708c77bd4ccd58388d598da80",
+      "Path": "Mods/BluePrinceVR-Codex/Check-OfflineMemo.cmd",
+      "Size": 174
+    },
+    {
+      "Sha256": "159cc2246f2e01692d1474554fb833d7af94913b61c58d9a0b2611339cb0f731",
+      "Path": "Mods/BluePrinceVR-Codex/CodexVrs.dll",
+      "Size": 162816
+    },
+    {
+      "Sha256": "783ca46f1ec19fbe7caaead2ef0e5338e86bc4307bc36ac7336c4bf6cb72b2e0",
+      "Path": "Mods/BluePrinceVR-Codex/FPS-ARMS-CREDITS.md",
+      "Size": 1377
+    },
+    {
+      "Sha256": "1d0458087542536d3b9f80f739da2cedd6f03c75ecdac420a5d8b4767b0e9a11",
+      "Path": "Mods/BluePrinceVR-Codex/fps-arms-rigged.bpvr",
+      "Size": 2720691
+    },
+    {
+      "Sha256": "acaa8476c0a09a2841f40bedf06755870d407114748dde8dbca46fc81cabaeb7",
+      "Path": "Mods/BluePrinceVR-Codex/hands_fp_cel.glb",
+      "Size": 2186072
+    },
+    {
+      "Sha256": "982ea45c95e72b39a417b54a3b83ab9f73c95c8c9050f9bc447f23a9cf6eb36f",
+      "Path": "Mods/BluePrinceVR-Codex/MemoCapture.cs",
+      "Size": 3908
+    },
+    {
+      "Sha256": "bab44777f0f4d0333479ea0be6e24c084464a8cb64b98f1253fcc3df70f6eccf",
+      "Path": "Mods/BluePrinceVR-Codex/NVIDIA-LICENSE.txt",
+      "Size": 1217
+    },
+    {
+      "Sha256": "aff6a97c2c44031ac4e02325992a50ccb314abba330b850ae4d414b39d0f84d5",
+      "Path": "Mods/BluePrinceVR-Codex/OfflineMemo.ps1",
+      "Size": 1628
+    },
+    {
+      "Sha256": "294a2d7c4df5ae7f8c1095315a906f976c4c4ea5fffc94381ad7e1649804b17f",
+      "Path": "Mods/BluePrinceVR-Codex/JournalArt/camera-choice-flat.png",
+      "Size": 994850
+    },
+    {
+      "Sha256": "7a0afd502e036b9999b9e2376a9ad19755b73e32a29addaaae1fc8c47494a998",
+      "Path": "Mods/BluePrinceVR-Codex/JournalArt/notebook-choice-flat.png",
+      "Size": 1148508
+    },
+    {
+      "Sha256": "8a35c1ef90c7d1132a6a0162cd79f27b02c03d73f2ba2c433a1b9468b6a9167f",
+      "Path": "Mods/BluePrinceVR-Codex/JournalArt/camera-choice.png",
+      "Size": 1243350
+    },
+    {
+      "Sha256": "ee122aaef63334487f4c13a97bfa45f9a5661375e2d5c3ed3644331b0367e7ed",
+      "Path": "Mods/BluePrinceVR-Codex/JournalArt/notebook-choice.png",
+      "Size": 1715388
+    },
+    {
+      "Sha256": "61c9c57f49f380896ed54ed3f71735e10a2d986f482c2b0a55e72b47f731b193",
+      "Path": "Mods/BluePrinceVR-Codex/Whisper/ggml-base.dll",
+      "Size": 536064
+    },
+    {
+      "Sha256": "eb2f1d023e51c40b27463b5ab165600eb48cb60323740f400b1b62e1c8706c56",
+      "Path": "Mods/BluePrinceVR-Codex/Whisper/ggml-cpu.dll",
+      "Size": 683008
+    },
+    {
+      "Sha256": "c6138d6d58ecc8322097e0f987c32f1be8bb0a18532a3f88f734d1bbf9c41e5d",
+      "Path": "Mods/BluePrinceVR-Codex/Whisper/ggml-small.en.bin",
+      "Size": 487614201
+    },
+    {
+      "Sha256": "bcfeaf6e5b59c315fc36e290715aa7a84b22461e968543c13dfcf57df7b1b81d",
+      "Path": "Mods/BluePrinceVR-Codex/Whisper/ggml.dll",
+      "Size": 67584
+    },
+    {
+      "Sha256": "0ff971e410240a0b97117432d771245698f376e06105c011959d2bfc4bb23311",
+      "Path": "Mods/BluePrinceVR-Codex/Whisper/whisper-cli.exe",
+      "Size": 480768
+    },
+    {
+      "Sha256": "e562a2ddfaf8280537795ac5ecd34e3012b6582a147ef69ba6a6a5c08c84757d",
+      "Path": "Mods/BluePrinceVR-Codex/Whisper/WHISPER-CPP-LICENSE.txt",
+      "Size": 1078
+    },
+    {
+      "Sha256": "b5d65a59060e68c4ff940e1eddfa6f94b2d68fdf58ed7f4dd57721c997e35e9d",
+      "Path": "Mods/BluePrinceVR-Codex/Whisper/WHISPER-MODEL-LICENSE.txt",
+      "Size": 1063
+    },
+    {
+      "Sha256": "4037a6567fbb08fc7efda18e4d128a95df9c31ba171af20439d1a93b785d007e",
+      "Path": "Mods/BluePrinceVR-Codex/Whisper/whisper.dll",
+      "Size": 483840
+    },
+    {
+      "Sha256": "3a6b0b2b6326f31ba97422983a564171a6e9e941c15482697980ca3d6a2f577f",
+      "Path": "BluePrinceVR-Installer/CONTROLS.txt",
+      "Size": 9232
+    },
+    {
+      "Sha256": "eab519c80ccf57954fa2c9a19db8b9024cb74f14bfc97ee7eba934a312ed918e",
+      "Path": "BluePrinceVR-Installer/FIRST-RUN.txt",
+      "Size": 1636
+    }
+  ],
+  "Loader": {
+    "Name": "MelonLoader.x64.zip",
+    "Algorithm": "SHA256",
+    "Hash": "5b2b2f3d1cd42b59ec886c5bdc2663edae87a0097a4f4a8f58c0965a99dda416",
+    "Url": "https://github.com/LavaGang/MelonLoader/releases/download/v0.7.3/MelonLoader.x64.zip"
+  },
+  "PayloadHash": "00c29b1128d99bf09f6ffd95759b5e2149c15ee7119d933db7cbfc4a1a6edd0f",
+  "DotNet": {
+    "Name": "windowsdesktop-runtime-6.0.36-win-x64.exe",
+    "Algorithm": "SHA512",
+    "Hash": "86fa63997e7e0dc6f3bf609e00880388dcf8d985c8f6417d07ebbbb1ecc957bf90214c8ff93f559a0e762b5626ba8c56c581f4d506aa4de7555f9792c2da254d",
+    "Url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x64.exe"
+  },
+  "VisualCpp": {
+    "Name": "vc_redist.x64.exe",
+    "Algorithm": "SHA256",
+    "Hash": "cc0ff0eb1dc3f5188ae6300faef32bf5beeba4bdd6e8e445a9184072096b713b",
+    "Url": "https://download.visualstudio.microsoft.com/download/pr/bd1c8d9d-ba95-4eee-bc6e-df1fcc876373/CC0FF0EB1DC3F5188AE6300FAEF32BF5BEEBA4BDD6E8E445A9184072096B713B/VC_redist.x64.exe"
+  }
+}
