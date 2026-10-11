@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net6.0</TargetFramework><EnableDefaultCompileItems>false</EnableDefaultCompileItems><DefineConstants>TAP_HOLD_TESTS</DefineConstants></PropertyGroup>
+  <ItemGroup><Compile Include="../src/TapHoldButton.cs"/><Compile Include="TapHoldTests.cs"/></ItemGroup>
+</Project>
