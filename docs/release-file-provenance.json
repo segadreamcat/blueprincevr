@@ -1,0 +1,227 @@
+[
+  {
+    "Sha256": "850437531eb2a4fea3bf5582c21b8fbff5f8ea5ff77c2ef0b1fe7890e7c856b3",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR.dll"
+  },
+  {
+    "Sha256": "adb89344d08fd58b69e1d457ec2c147f0b54a4d5238f4bfa9873fb78428358a2",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR.ClaudeFixes.dll"
+  },
+  {
+    "Sha256": "7048be4b78223b84c158a185236b3f19bb132c346730b58d69836e2d26135a36",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR.Fountain.dll"
+  },
+  {
+    "Sha256": "6fd5d12a31dd7a303a087527fe085f3a9342c102e1891fefd22c20c4c6d08c85",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR.JournalArt.dll"
+  },
+  {
+    "Sha256": "c9cb20293f01cb49abd873c0be17505ab9176b97f35e209eabc8841c178f45e5",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR.RecorderPolish.dll"
+  },
+  {
+    "Sha256": "bd69666f6c102c5d81cd09e77e47311ce89fe78b56eaff2bfe40ff3e9d26d1a6",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/arms.bpvr"
+  },
+  {
+    "Sha256": "63a3dda743a9fb041c12c1277b3030fb1164b48708c77bd4ccd58388d598da80",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/Check-OfflineMemo.cmd"
+  },
+  {
+    "Sha256": "159cc2246f2e01692d1474554fb833d7af94913b61c58d9a0b2611339cb0f731",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/CodexVrs.dll"
+  },
+  {
+    "Sha256": "783ca46f1ec19fbe7caaead2ef0e5338e86bc4307bc36ac7336c4bf6cb72b2e0",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/FPS-ARMS-CREDITS.md"
+  },
+  {
+    "Sha256": "1d0458087542536d3b9f80f739da2cedd6f03c75ecdac420a5d8b4767b0e9a11",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/fps-arms-rigged.bpvr"
+  },
+  {
+    "Sha256": "acaa8476c0a09a2841f40bedf06755870d407114748dde8dbca46fc81cabaeb7",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/hands_fp_cel.glb"
+  },
+  {
+    "Sha256": "982ea45c95e72b39a417b54a3b83ab9f73c95c8c9050f9bc447f23a9cf6eb36f",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/MemoCapture.cs"
+  },
+  {
+    "Sha256": "bab44777f0f4d0333479ea0be6e24c084464a8cb64b98f1253fcc3df70f6eccf",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/NVIDIA-LICENSE.txt"
+  },
+  {
+    "Sha256": "aff6a97c2c44031ac4e02325992a50ccb314abba330b850ae4d414b39d0f84d5",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/OfflineMemo.ps1"
+  },
+  {
+    "Sha256": "294a2d7c4df5ae7f8c1095315a906f976c4c4ea5fffc94381ad7e1649804b17f",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/JournalArt/camera-choice-flat.png"
+  },
+  {
+    "Sha256": "7a0afd502e036b9999b9e2376a9ad19755b73e32a29addaaae1fc8c47494a998",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/JournalArt/notebook-choice-flat.png"
+  },
+  {
+    "Sha256": "8a35c1ef90c7d1132a6a0162cd79f27b02c03d73f2ba2c433a1b9468b6a9167f",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/JournalArt/camera-choice.png"
+  },
+  {
+    "Sha256": "ee122aaef63334487f4c13a97bfa45f9a5661375e2d5c3ed3644331b0367e7ed",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/JournalArt/notebook-choice.png"
+  },
+  {
+    "Sha256": "61c9c57f49f380896ed54ed3f71735e10a2d986f482c2b0a55e72b47f731b193",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/Whisper/ggml-base.dll"
+  },
+  {
+    "Sha256": "eb2f1d023e51c40b27463b5ab165600eb48cb60323740f400b1b62e1c8706c56",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/Whisper/ggml-cpu.dll"
+  },
+  {
+    "Sha256": "c6138d6d58ecc8322097e0f987c32f1be8bb0a18532a3f88f734d1bbf9c41e5d",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/Whisper/ggml-small.en.bin"
+  },
+  {
+    "Sha256": "bcfeaf6e5b59c315fc36e290715aa7a84b22461e968543c13dfcf57df7b1b81d",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/Whisper/ggml.dll"
+  },
+  {
+    "Sha256": "0ff971e410240a0b97117432d771245698f376e06105c011959d2bfc4bb23311",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/Whisper/whisper-cli.exe"
+  },
+  {
+    "Sha256": "e562a2ddfaf8280537795ac5ecd34e3012b6582a147ef69ba6a6a5c08c84757d",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/Whisper/WHISPER-CPP-LICENSE.txt"
+  },
+  {
+    "Sha256": "b5d65a59060e68c4ff940e1eddfa6f94b2d68fdf58ed7f4dd57721c997e35e9d",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/Whisper/WHISPER-MODEL-LICENSE.txt"
+  },
+  {
+    "Sha256": "4037a6567fbb08fc7efda18e4d128a95df9c31ba171af20439d1a93b785d007e",
+    "Origin": "Claude release ZIP",
+    "Path": "Mods/BluePrinceVR-Codex/Whisper/whisper.dll"
+  },
+  {
+    "Sha256": "af007b7665fbaa27e2a693d24e8f64090a2e5286f1bc0ba779aab61fe138bc7b",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/BPVR_VR.png"
+  },
+  {
+    "Sha256": "7fb3adce97cc0a3cf6fd855f83f80545d2ad617e4adfbf37314389a1233cd6e2",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/BPVR_smoke.png"
+  },
+  {
+    "Sha256": "af6325cd090b6b15d61d0321737daa231793bf3beac3b6d87724928b2183c937",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/BPVR_puff.png"
+  },
+  {
+    "Sha256": "ca435bad1b372c7a8cc1546b64825186dc8f431006ea0346f1cb07b44607fb82",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/BPVR_select.png"
+  },
+  {
+    "Sha256": "bd69666f6c102c5d81cd09e77e47311ce89fe78b56eaff2bfe40ff3e9d26d1a6",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/arms.bpvr"
+  },
+  {
+    "Sha256": "8e40b5635efccdbd260342b7099dbc2a88c74da51072ff9080123246c55e6079",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/Codex-keyboard-Laboratory-Computer.json"
+  },
+  {
+    "Sha256": "d14cd3e9c98f8940da3506b64e7c2c092714b77961a31378c224fd1186144239",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/Codex-keyboard-Office-Computer.json"
+  },
+  {
+    "Sha256": "edb28c077e5a2529c4e80fdb1c6c58d16b8c8f5b3f4b207f36e95a13e9ce91e0",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/Codex-keyboard-Standalone_Rooms-Computer.json"
+  },
+  {
+    "Sha256": "e696c78853ebbb71803e87520217d7ae443de0ce07925af0852906545c23b90d",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/Codex-keyboard-Security-Click_Trigger.json"
+  },
+  {
+    "Sha256": "8e40b5635efccdbd260342b7099dbc2a88c74da51072ff9080123246c55e6079",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/Codex-keyboard-points.json"
+  },
+  {
+    "Sha256": "4da6e6223ee9de792781dec20450d74a28d77f7f98fb38d43676bd40b0747466",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/ClaudeFixes-keyboard-Office-Computer.txt"
+  },
+  {
+    "Sha256": "4da6e6223ee9de792781dec20450d74a28d77f7f98fb38d43676bd40b0747466",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/ClaudeFixes-keyboard-shared.txt"
+  },
+  {
+    "Sha256": "c6b4a26b0c70163a72578f7765a1bb1b2a3fa8cddd39a8a189b42c872aa55b7e",
+    "Origin": "Claude release ZIP",
+    "Path": "UserData/BluePrinceVR-RecorderPolish.cfg"
+  },
+  {
+    "Sha256": "e0f0ba2fda3fc45f4ca889b78c8c507818a11d11aaf4411eb10eb2cccb46557c",
+    "Origin": "Pinned OpenVR support runtime",
+    "Path": "OPENVR-LICENSE.txt"
+  },
+  {
+    "Sha256": "bab8ac6ef64e68a9ca53315b0014d131088584b2efdfa6db511d67ec03cfcb4a",
+    "Origin": "Pinned OpenVR support runtime",
+    "Path": "openvr_api.dll"
+  },
+  {
+    "Sha256": "e586c2841a814df1f29952e95cffa56853ec00409b0c03f9368ca60d79ca5b55",
+    "Origin": "Release documentation",
+    "Path": "BluePrinceVR-Installer/CONTROLS.txt"
+  },
+  {
+    "Sha256": "2708487428aaa77a2f9bff8e768304b736b3b11eeb3be9303cd9996598d9e8c1",
+    "Origin": "Release documentation",
+    "Path": "BluePrinceVR-Installer/FIRST-RUN.txt"
+  },
+  {
+    "Sha256": "dac2a2e1612607baa8f9678e66f82348044acdca12e17a6fd7b1615dc9d96974",
+    "Origin": "Release documentation",
+    "Path": "BluePrinceVR-Installer/THIRD-PARTY-NOTICES.md"
+  },
+  {
+    "Sha256": "4c833dc44b2b34d0e8cbd753d7b67af2ec8d907cab9232256286bc5a9ead5c37",
+    "Origin": "Generic release comfort defaults",
+    "Path": "UserData/Codex-comfort.json"
+  }
+]
