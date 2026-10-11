@@ -1,0 +1,27 @@
+BLUE PRINCE VR - OCTOBER 10 WINDOWS RELEASE
+
+Move: left stick. Turn: right stick. Look: headset.
+Walk slowly: left stick click. Crouch: right stick click.
+Interact: trigger. Pick up/hold: grip. Use held item: trigger + grip.
+Journal/camera/notebook: tap X. Voice memo: hold X.
+Floor plan: tap Y. Pause: hold Y. Confirm: A. Back: B.
+Forklift / pallet jack: hold trigger to keep hold; grips control lift.
+Magnifier: hold grip over a document; left stick moves the glass.
+VR options: hold both stick clicks in play, or X on the title screen.
+SteamVR bindings may differ. X/Y remain on the left controller when the
+dominant hand changes. Smooth/snap turning is selected in VR options.
+
+COMPUTERS
+Touch terminal keys with your fingertips. A/B and sticks also operate
+Enter, Escape and the arrow menu keys. For recalibration, hold both grips
+for three seconds at a computer, then touch Q, P and Z with the right
+index tip and press A after each touch. Calibration is shared between
+computers; the Security terminal still needs gameplay confirmation.
+
+KNOWN LIMITATIONS
+Experimental PC VR build. Performance depends on the PC and room.
+ResolutionScale and foveation are available for tuning; no FPS improvement
+or additional headset compatibility is promised by this packaging pass.
+Avoid F6: it generates large diagnostic screenshots in UserData.
+For reports include the room, held item, input and MelonLoader\Latest.log.
+Check the log for personal paths before posting it publicly.
