@@ -1,0 +1,572 @@
+[
+  {
+    "Path": "source/BluePrinceVR/src/ArmReach.cs",
+    "Sha256": "334ccd4b76dcdcc2e9486906315c40b041ed3f415c7c8995445c30de18116e04",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/ArmRefinement.cs",
+    "Sha256": "6dcd46c8857d6d7198ec5493997e39ebeec48c31a3d87bcd5a09c6eb973fe838",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/BluePrinceVR.cs",
+    "Sha256": "2341c5335ffeaa90bb6387e9b45a363c6ec5e6ab61da940454079010e73194d8",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/BluePrinceVR.csproj",
+    "Sha256": "bdacdb741ec062a593e975201058554ffe37cde554dcad60dd16f5b7e0796e7a",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/BoilerPipeInteraction.cs",
+    "Sha256": "a392478edc8b59c3f41292e92f3a88c5003dec1bce727a7638c8110fbc54314a",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/BoxInteractionAssist.cs",
+    "Sha256": "bc896ac5c6294e616f9cb888a2c038a6315b9966912cffad39231119b47f7927",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/CelHandIntegration.cs",
+    "Sha256": "7c650ce5d22bec35116a216692932ccdd98f799bd68faba82f3443506f93d67f",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/CelHandPack.cs",
+    "Sha256": "c83d7cbef78f076d84a7f74db1228a42691352579fb87313ae61d180f37c62b9",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/CoatCheckView.cs",
+    "Sha256": "875255804a1f2d7782c69c1b0bb1840856ca00accb76698ec15a898799080074",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/CodexFeatures.cs",
+    "Sha256": "d4ce8971e797ea5fa65dc1e0b29d52e56180fd251424df0d8de549265380432f",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/ComfortMenu.cs",
+    "Sha256": "5e716e6a34b1495fecdf127d841b34f563ffbfa7fcdf29da193009d86b36be0c",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/ComputerKeys.cs",
+    "Sha256": "8a997fe884264aaf4eda566f719a92aadba993b1b4c4cf997dbcd1931deb16d1",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/CrouchToggle.cs",
+    "Sha256": "d5abd9edd532f99e3b52d375e6209186bd1c6a559e39e31be89fe0be683de1b9",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/DevShortcutCompatibility.cs",
+    "Sha256": "5eca453fe714236f86817f7e89889d0187c13999dbbc1ebb820a26b64f1f833b",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/DigEdgeAssist.cs",
+    "Sha256": "1ecf22b6ff0e277e05d9f2159302131adfd6f63291f53a96792dd71c2dfa0da1",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/DigHoverGuard.cs",
+    "Sha256": "7f62bf775b14538bdebf4982e5a0022a89a2a4799753208e616fcf230f913c85",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/DigInteraction.cs",
+    "Sha256": "35f591aadb831a8b683b9bc6fa668417e9467eafb0ce7ba2fa82ac028271af44",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/DoorHaptics.cs",
+    "Sha256": "fc3f0ef8c97118880373a0851d7a58beceffb8ad8d63c91fe087f843e1e4b7b5",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/DraftNavigation.cs",
+    "Sha256": "6a196b252997c3acdc9a3e95870f0233fd02c2a07373894bb0c772ff29d80e19",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/FingerControls.cs",
+    "Sha256": "16f1c89a135a105d08ceccbf8adcb6ec8a8c18795a70e962e68e2a8b3d19ce36",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/FingertipKeyboard.cs",
+    "Sha256": "79970c742b22c2fce8970402b9468a0f8ac5b7135a5b6e95c42dac671c8d7ec7",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/FloorPlanInput.cs",
+    "Sha256": "13196fdc0f13e0d72e27d8c68c8f4c8e96d15c095018382018a4850abdeece33",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/ForearmPreview.cs",
+    "Sha256": "12fbbbf2579114287aabebd55f3d9fdd62e48535d253004b5426a66f8347061a",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/HeadRelativeMove.cs",
+    "Sha256": "a41dd13dbac1099b0fd19b35ab078c83b374b8d86db2e24c141f45076669d0cd",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/HeldTools.cs",
+    "Sha256": "ba47c531fbdfa25a9d7ac0b21bf321e0f7e6569c61e0e60cec6783efe93fc03f",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/InputRecovery.cs",
+    "Sha256": "a0c930a9ebf09c155dd8f9e5d77a3c6082498f8b6dcf0481f07369f36f9ddf4e",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/InteractionDiagnostics.cs",
+    "Sha256": "1514ddf6d76566f937a9780eca6020eac276cf6bc9787c083d5ba6e03163f385",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/InteractionHaptics.cs",
+    "Sha256": "c971a2d52c925c8eddc066e45803ae077597c556148887296284b1d8fb25b692",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/JournalChooser.cs",
+    "Sha256": "18e185928738858c6bbbabb454512d8829d86326e6ffdb949e16ecd11f4b400b",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/JournalMemo.cs",
+    "Sha256": "39ffc82bd8065541e30ef6952e7e4549306eee096fb8c404a1c9e00199f0b94c",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/JournalNotes.cs",
+    "Sha256": "fad260cc2f916695f188af71ee43e1742b2fbcff0b40730a7c812dfd26e34a72",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/JournalPencil.cs",
+    "Sha256": "44609d18b1dc8d592f674b209be1a9cc9364c06c91388a9d9807a5e30aaca2d7",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/KeyboardSound.cs",
+    "Sha256": "fd5ca895c17dd9b992615e83a4536426f1e03babb7462e42e393561bcd89fb47",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/KeyTouchGate.cs",
+    "Sha256": "e55c0fcd50ba1fe5e42b6b87a98c4c2889b6125089b3e1224871685b06bfc9e6",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/MainMenuVRSettings.cs",
+    "Sha256": "1d1576c7ba23c0a77b65bd37fe44d7d1f4b162b5d4a375889f290a0b20723610",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/MemoShellBatch.cs",
+    "Sha256": "8dd15a7d40c6eb628177e690689b8c9a0a789acfa6d6379f21db757b6f423129",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/NativeFoveation.cs",
+    "Sha256": "6fd13f57a205364b724b32d175aa130de9a02a949b4cbadf3f67c5f6b49908e3",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/NotebookData.cs",
+    "Sha256": "59ac1a8e99d8902e2c90f922416e92ad79c1ad16383419741a4e946c9031e317",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/NotebookJournal.cs",
+    "Sha256": "f304308e2f1a0b9dde1a7f9cbf5fd88e2ce3d389a46e8f79b722df59376df60e",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/PanelStickPointer.cs",
+    "Sha256": "24854a6ca22c70da67d204199932a94e9a962f23d5f270c902ea6c00e9bb5b79",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/ParlorLegacyGrab.cs",
+    "Sha256": "e65f4e11871138ecc24c1e4c052459951cc23150b26d76c518790ff0e8e42d0a",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/PerformanceTrace.cs",
+    "Sha256": "f99eab486adeba5871ab35ea73743c158eb774f591abc000d65fd81ae5c3a4c6",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/PhotoJournal.cs",
+    "Sha256": "52cf8655a4a1607003253d2e61446451ffbaa06303f0c0b833364c3d94152bf7",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/PickupReach.cs",
+    "Sha256": "a69ec975f0bba0db55447feac731768fda16e46ccbfef41e6de509e13d2adc57",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/PumpInteraction.cs",
+    "Sha256": "efe6bdcb082a6bb95c60afcf911161746812cc8baa96f2aeac013755b21c64b9",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/PumpTapGuard.cs",
+    "Sha256": "6f71454c7cea0019edc5c7128ab11d5234a48033bea8f4d817276dbef086e1c7",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/PumpTouchButtons.cs",
+    "Sha256": "557a05fcbdb6d721f254807debffa604c57e35b8237ba264852e0c474c428730",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/QuickMemo.cs",
+    "Sha256": "c48e12d5265499be06c4e7a613d999875636897fadae1fbc6602bea93210861a",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/RightXShortcut.cs",
+    "Sha256": "315455f8deb76c67b5d60ea120b4498365ec9a51bd8933640bdb135c6f2551e2",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/RoomCaption.cs",
+    "Sha256": "da5e5058f6bc567de6afec9035a81d419d5d135d136fca5d3af750795bdbd073",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/TapHoldButton.cs",
+    "Sha256": "ebe838c95619d8c2d90332b7517757a83d550c6e5096b02bb12daa64a6e1d71c",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/ToolAimAssist.cs",
+    "Sha256": "07747fefa49c67926a20da0e621d436cdd998896505b932834c56290496217db",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/TrunkInteraction.cs",
+    "Sha256": "44c15b4668c8d5761e5641801cd91d66d3fae3fa6e53c6a7841203aed8513f91",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/TwoHandInteraction.cs",
+    "Sha256": "f63024accd61f3c42fe142ee30ed4bd6aafe682c2eaa4ae8613e434c6ae84201",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/VideoPresentationGate.cs",
+    "Sha256": "305a78018496b6fcf62d39ec140da3b85273501b4ffc51faeaa59754bc396259",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/VideoTextureBridge.cs",
+    "Sha256": "3395e8838b4983bdf2e558f6179ca4858f60a8973668745e941a830573af67ad",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/VisionPresentation.cs",
+    "Sha256": "14cdf854d8da1be293caa92bdc1d8533d467542d2881560d1b844cb310ba59c8",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/VisualCorrections.cs",
+    "Sha256": "61121d1f89f2787abb6b43a500544f651a5c5ae868add84522ad77d3fea03d17",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/src/WristWatch.cs",
+    "Sha256": "6049c45c9f0ed3f1b23dc87246ca97342be0c0bd7b0e40ce4e63953145aba6e5",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/NuGet.Config",
+    "Sha256": "72b33a12a2cddfda521126184fef3ab94bbb17a91a3a08612509cfcb6bc4918a",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/tests/NotebookChecks.cs",
+    "Sha256": "19cda39961964cf77cf94af5d963eaeb681114247136f01da23553e8e737dccf",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/tests/Program.cs",
+    "Sha256": "adf9da4994d8cadcc0599f13b508792b020f33b1afbe0dee32e8844fa913dfe4",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/tests/TapHoldTests.cs",
+    "Sha256": "29df181b2293a8eae88be12b1e63d8a7df5f70750efd6e531fd38007e846e0b7",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/tests/TapHoldTests.csproj",
+    "Sha256": "eaf0ae8b873735c9e16a2d25e02ecbd81bf27472d7d13003247e783c7e1d53bd",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/tests/Tests.csproj",
+    "Sha256": "2b79974aece27669d46adfe3e51ff132c3aa1a594618dc664e28fa972c5ae5de",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/tests/UnityStubs.cs",
+    "Sha256": "a8d8e26b926e54282fe011a889438e262aec7919d11200dd21a2136a87405bf6",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/native/CodexVrs.cpp",
+    "Sha256": "63c11baa9d7ff2f54ad9da111472981e7aaf146bc821d8b53c78094b27b1e740",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/native/NVIDIA-LICENSE.txt",
+    "Sha256": "bab44777f0f4d0333479ea0be6e24c084464a8cb64b98f1253fcc3df70f6eccf",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/shaders/Assets/CodexToon.shader",
+    "Sha256": "2ccd63c5f19ee107855b8ce2e037c620d2c55575a530b59a1c875075b918bf64",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/shaders/Assets/CodexToon.shader.meta",
+    "Sha256": "48360383df623af2ad10a9f067f4ed6c0ebbf65e6732544ac5dd0b70de82d8be",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/shaders/Assets/Editor.meta",
+    "Sha256": "91a76ce79262cee005f638a23b12e2bea405199faeab3dd98673266654c4a436",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/shaders/Assets/FoveatedComposite.shader",
+    "Sha256": "7abcd56efd9cfe3bb04af0f653b3a8f7f2776b2c5ce48190fdbb3f7948eee039",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/shaders/Assets/FoveatedComposite.shader.meta",
+    "Sha256": "6d281479200aa1b4a9d151ac32498b527859945c84162f6303e7dd7d11214b7d",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/shaders/Assets/Editor/BuildShaders.cs",
+    "Sha256": "5a1152690b023d685800d275ac7f8cf3313dd9ca93b3a5db65ec9a0ac4c4a733",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/shaders/Assets/Editor/BuildShaders.cs.meta",
+    "Sha256": "eee3438fed5d38b077e4a385ae2e38e5a5d5ef3307a79c876928c251734da0ec",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/shaders/Packages/manifest.json",
+    "Sha256": "6121fb9da71e3430413f00e63e2748c5ee8d2e69049c3963bc448cac6880a404",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/shaders/ProjectSettings/ProjectVersion.txt",
+    "Sha256": "4deddde60a8af8b8db4bb1c3bc5583f3051debf1172165b61d79630331a72907",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/memo/MemoCapture.cs",
+    "Sha256": "982ea45c95e72b39a417b54a3b83ab9f73c95c8c9050f9bc447f23a9cf6eb36f",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/memo/OfflineMemo.ps1",
+    "Sha256": "aff6a97c2c44031ac4e02325992a50ccb314abba330b850ae4d414b39d0f84d5",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR/memo/Check-OfflineMemo.cmd",
+    "Sha256": "63a3dda743a9fb041c12c1277b3030fb1164b48708c77bd4ccd58388d598da80",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.Fountain/BluePrinceVR.Fountain.csproj",
+    "Sha256": "a11c18862275e5fe1241dea03f80dc8a561dccfd0e569e9427a4bdf25aaf0611",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.Fountain/FountainMod.cs",
+    "Sha256": "e0cc4249bbd31bf430298c69ff7142d9d127652e9d8d9483de8f1dc839c2391e",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.JournalArt/BluePrinceVR.JournalArt.csproj",
+    "Sha256": "8640f0795c19fdc75aacb739e64e542e2dd2b0a2ca275e99e1566f9f4bbe47fe",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.JournalArt/JournalArtMod.cs",
+    "Sha256": "d768a5bac58806c7ee95f4c43532f9a8ea22bacec74c0c9e9391d73357ecf205",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.RecorderPolish/BluePrinceVR.RecorderPolish.csproj",
+    "Sha256": "71bd83a19cba3d3927f294b8fa370cbeec0d86bf3679134746b605c560752c3e",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.RecorderPolish/RecorderPolishMod.cs",
+    "Sha256": "db1daaded0f831b4f8ddad28342cd2388d89a60e1a743dbbe1574e08f9a1d0ff",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.ClaudeFixes/Mod.cs",
+    "Sha256": "9497e70c9faaa93c592518e8d85c185a7a350c6894608170bb76303549d44ec1",
+    "Origin": "ClaudeFixes c96 source archive, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.ClaudeFixes/ClaudeFixes.csproj",
+    "Sha256": "01d5706518c2740d74497dc62daee007724f90227c96c6c3e64ed43cd1c7710f",
+    "Origin": "ClaudeFixes c96 source archive, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.ClaudeFixes/NuGet.config",
+    "Sha256": "5256a7e3e07d2c5c94f7a1e6c45f39aab011c659c5e2d53e452dea525ce04575",
+    "Origin": "ClaudeFixes c96 source archive, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.ClaudeFixes/README.md",
+    "Sha256": "fb7a9794c9e1b778d947c073a9ea677338efbcee2c52953ba20213d818d8ffb6",
+    "Origin": "ClaudeFixes c96 source archive, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.ClaudeFixes/refs/PUT-REFERENCES-HERE.txt",
+    "Sha256": "f8ea4f98d38283baf90581bd34435b166b9bcce0968ec007745f9186eafbf83d",
+    "Origin": "ClaudeFixes c96 source archive, unmodified"
+  },
+  {
+    "Path": "source/BluePrinceVR.ClaudeFixes/BPVR_VR.png",
+    "Sha256": "af007b7665fbaa27e2a693d24e8f64090a2e5286f1bc0ba779aab61fe138bc7b",
+    "Origin": "Embedded mod UI resource supplied from public manual ZIP"
+  },
+  {
+    "Path": "source/BluePrinceVR.ClaudeFixes/BPVR_puff.png",
+    "Sha256": "af6325cd090b6b15d61d0321737daa231793bf3beac3b6d87724928b2183c937",
+    "Origin": "Embedded mod UI resource supplied from public manual ZIP"
+  },
+  {
+    "Path": "source/BluePrinceVR.ClaudeFixes/BPVR_smoke.png",
+    "Sha256": "7fb3adce97cc0a3cf6fd855f83f80545d2ad617e4adfbf37314389a1233cd6e2",
+    "Origin": "Embedded mod UI resource supplied from public manual ZIP"
+  },
+  {
+    "Path": "source/BluePrinceVR.ClaudeFixes/BPVR_select.png",
+    "Sha256": "ca435bad1b372c7a8cc1546b64825186dc8f431006ea0346f1cb07b44607fb82",
+    "Origin": "Embedded mod UI resource supplied from public manual ZIP"
+  },
+  {
+    "Path": "source/WindowsInstaller/src/Installer.cs",
+    "Sha256": "73ddc7c5c6c21e87faf64afc400b1162d02fefc1daf9d5c6c58d85de8eeaad99",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/src/Installer.manifest",
+    "Sha256": "945eb49be027d1f0df3a3e62eeb507e6a51053f761ef8268c3c1e808ef34a61d",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/src/SelfTest.cs",
+    "Sha256": "de2332f3a0b79b7c0ed7306d3f16cfa0e5e110b68a60deb66f7c6ab5b9ec9f4f",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/Build.ps1",
+    "Sha256": "c6edc762d543a014c156a45178b3a32d7287367d940397b331756196317be77a",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/Verify-Release.ps1",
+    "Sha256": "21d27ab3fe72b7fbf7e1cd9791f250cec3c9b8e1f7cf313d5949da79583b3b7c",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/CONTROLS.txt",
+    "Sha256": "e586c2841a814df1f29952e95cffa56853ec00409b0c03f9368ca60d79ca5b55",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/FIRST-RUN.txt",
+    "Sha256": "2708487428aaa77a2f9bff8e768304b736b3b11eeb3be9303cd9996598d9e8c1",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/MANUAL-INSTALL.txt",
+    "Sha256": "a410f73c6d2bac1880de4b5ea64ac489be9dfde20cebe786eafa181d06513755",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/RELEASE-NOTES.md",
+    "Sha256": "ab9ac5cdf635972611bf92fbafacb254448500634c7e7bfc18ad15ce67bb9601",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/PUBLISHING.md",
+    "Sha256": "178fbbfb8818085f7edd3709c358e3b69fa7808d01fcb68cc6050eab5fccef3f",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/THIRD-PARTY-NOTICES.md",
+    "Sha256": "dac2a2e1612607baa8f9678e66f82348044acdca12e17a6fd7b1615dc9d96974",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "source/WindowsInstaller/build/dependencies.json",
+    "Sha256": "aded00a0b6b28f6dfdefeba10ad0e4bf56a3836befc1763482a3585744c348e6",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "docs/release-file-provenance.json",
+    "Sha256": "5836739140562e84f09675c0561b7850272bde7b8c084000e8e533ab2277934e",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "README.md",
+    "Sha256": "ef52a82bc443af287880e635bb0b2c5508b16af854dc7fe0925b82b524e07846",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": ".gitignore",
+    "Sha256": "ee860c18cd938901586d64c73459bd2b771d63bdb7d2c05c83f2f584ba36ae09",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "Build-Mods.ps1",
+    "Sha256": "f8a063b18a9323f16fa35ae952945670d1eb7802d1db0b9326913411835542d8",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "BUILDING.md",
+    "Sha256": "67e0d659bd474ef3a08840c6448948fc5830abb7ec30d4f39c5b732c4c2e40bb",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "SOURCE-NOTES.md",
+    "Sha256": "e97ed2b53a7478b1d1d5b6860ec6c12778b62306fd1796648a6932c825a4434c",
+    "Origin": "Local mod project, unmodified"
+  },
+  {
+    "Path": "SOURCE-VERIFICATION.md",
+    "Sha256": "ce59a30b4ddba75d2540fedff93a9f1192ba1ef7ae759358d2bf9315cb31bbdd",
+    "Origin": "Local mod project, unmodified"
+  }
+]

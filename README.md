@@ -105,4 +105,8 @@ When reporting a problem, include your headset, the room, any held item, the inp
 
 More setup information is installed in `BluePrinceVR-Installer/FIRST-RUN.txt`. Third-party notices are included with the download.
 
+## Source Code
+
+The mod's source projects are in [`source`](source). See [BUILDING.md](BUILDING.md) for build instructions and [SOURCE-NOTES.md](SOURCE-NOTES.md) for the snapshot's contents and limitations. You need your own game installation to supply the reference assemblies; the game's source and assets are not included.
+
 This is an unofficial community mod and is not affiliated with or endorsed by Blue Prince's developers or publisher. The original game is required and is not included.
