@@ -1,0 +1,49 @@
+BLUE PRINCE VR - WINDOWS RELEASE - OCTOBER 10, 2026
+
+Close Blue Prince before installing. Choose the folder containing
+BLUE PRINCE.exe, GameAssembly.dll and BLUE PRINCE_Data, then install.
+An existing licensed Windows PC copy of Blue Prince is required.
+
+MelonLoader 0.7.3, OpenVR, the VR mods and the English offline voice-note
+model are bundled. There is no separate MelonLoader installation step.
+If missing, the installer downloads and verifies Microsoft .NET 6 Desktop
+and Visual C++ x64 before running their official installers. Internet is
+also needed when MelonLoader prepares game assemblies on the first launch.
+
+Connect your headset to the Windows PC, start SteamVR, then launch Blue
+Prince normally from Steam. The first launch can take several minutes.
+This is PC VR, not a Quest standalone Android port or Linux installer.
+
+The game intro is restored: SkipIntro = false, including on updates.
+Existing VR preferences are otherwise kept, missing settings are added,
+and empty controller action names are repaired. The included keyboard
+calibration and generic comfort defaults are only installed where missing.
+Your measured hand fit, settings, saves, photos and notes are not replaced.
+
+Tap X for the journal/camera/notebook, hold X for a quick voice memo.
+Tap Y for the floor plan, hold Y for pause. B backs out of menus.
+At the title menu X opens VR options; in play hold both stick clicks.
+Use VR options to select smooth or snap turning and calibrate wrist fit.
+For voice notes select your headset microphone as the Windows recording
+input and enable microphone forwarding in the PC connection app.
+
+Keyboard recalibration: at a computer hold both grips for three seconds,
+then touch Q, P and Z with the right index tip, pressing A after each touch.
+The included keyboard calibration is from the release, not a guarantee
+that every terminal has been tested. See CONTROLS.txt.
+
+Avoid F6 unless diagnosing a problem: the mod saves large screenshot sets
+to UserData. No existing screenshots are deleted by this installer.
+
+No developer/cheat/Trailer/Contact mods, personal notebook images, saved
+photos, logs, debug dumps or pre-generated game assembly caches are bundled.
+Existing unrelated mods are left untouched. If updating an older filming
+or developer installation, move its extra DLLs out of Mods yourself with
+the game closed; this installer does not silently remove other mods.
+
+Replaced files are backed up in BluePrinceVR-Backups. Run this EXE again
+and select Restore previous files to reverse its latest installation.
+Restore refuses to overwrite subsequent user edits. Keep the backups.
+Microsoft runtimes stay installed after restoration.
+
+The EXE is unsigned. No certificate or hosting-site approval is claimed.
