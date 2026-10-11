@@ -1,0 +1,46 @@
+BLUE PRINCE VR - WINDOWS MANUAL DOWNLOAD - OCTOBER 10, 2026
+
+Requires your own installed Windows PC copy of Blue Prince and SteamVR.
+This ZIP is a manual-install alternative, not a Vortex/FOMOD package.
+No separate mod-manager application or developer mod is included.
+
+FRESH INSTALL
+1. Close Blue Prince. Extract this ZIP to a temporary folder.
+2. Open the installed game folder containing BLUE PRINCE.exe.
+3. Copy MelonLoader, Mods, UserData and BluePrinceVR-Installer into it.
+4. Also copy the ROOT FILES version.dll, openvr_api.dll and
+   OPENVR-LICENSE.txt into that same game folder. Do not overlook these.
+5. Start SteamVR, then launch Blue Prince normally from Steam.
+
+MelonLoader 0.7.3 and the offline English voice model are included.
+If Microsoft .NET 6 Desktop x64 or Visual C++ x64 is missing, install it
+from Microsoft's official pages before launching:
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
+The first MelonLoader launch needs internet to prepare the game assemblies.
+
+UPDATING AN EXISTING INSTALL
+The Windows EXE is preferred for safe merging, backups and restore.
+For manual updates, first back up the files you are replacing, including
+UserData/MelonPreferences.cfg and the existing keyboard/comfort files.
+Copy the new Mods, MelonLoader and root files. Copy missing UserData files
+and the supplied mod image/arm assets, but KEEP your existing comfort,
+keyboard calibration and recorder settings if you have customized them.
+Merge the three VR sections from the supplied MelonPreferences.cfg rather
+than replacing settings belonging to other mods. Ensure SkipIntro = false
+and that ActionMoveX/Y, ActionLookX/Y, ActionInteract, ActionCancel and
+ActionMenu have the nonempty values supplied in the fresh config.
+
+Do not overwrite a version.dll belonging to a different mod loader. Resolve
+that loader conflict first. No original game files or saves are included.
+No developer/cheat/Trailer mods or generated game assembly caches are shipped.
+Old extra mods are not automatically removed by a file copy; put them aside
+with the game closed if you are updating an older filming/dev setup.
+
+See BluePrinceVR-Installer/FIRST-RUN.txt and CONTROLS.txt for headset setup,
+keyboard recalibration, voice notes and known limitations. Avoid F6 unless
+debugging: it creates large diagnostic screenshots. None are included here.
+
+Manual uninstall: restore your own backup of replaced files and remove
+only files you added from this ZIP. Do not remove UserData or other mods
+wholesale; those folders can contain personal saves, notes and recordings.
