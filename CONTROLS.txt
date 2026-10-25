@@ -1,27 +1,89 @@
-BLUE PRINCE VR - OCTOBER 10 WINDOWS RELEASE
+BLUE PRINCE VR 0.1.96 - BUTTONS / PHYSICAL STUFF
+October 25, 2026
 
-Move: left stick. Turn: right stick. Look: headset.
-Walk slowly: left stick click. Crouch: right stick click.
-Interact: trigger. Pick up/hold: grip. Use held item: trigger + grip.
-Journal/camera/notebook: tap X. Voice memo: hold X.
-Floor plan: tap Y. Pause: hold Y. Confirm: A. Back: B.
-Forklift / pallet jack: hold trigger to keep hold; grips control lift.
-Magnifier: hold grip over a document; left stick moves the glass.
-VR options: hold both stick clicks in play, or X on the title screen.
-SteamVR bindings may differ. X/Y remain on the left controller when the
-dominant hand changes. Smooth/snap turning is selected in VR options.
+Default right-handed setup. Normal menu/tool roles follow comfort
+handedness. Physical X/Y shortcuts and editor voice stay LEFT; physical B
+and reading-photo shutter stay RIGHT.
 
-COMPUTERS
-Touch terminal keys with your fingertips. A/B and sticks also operate
-Enter, Escape and the arrow menu keys. For recalibration, hold both grips
-for three seconds at a computer, then touch Q, P and Z with the right
-index tip and press A after each touch. Calibration is shared between
-computers; the Security terminal still needs gameplay confirmation.
+GETTING AROUND
+Left stick: move. Click for slow walking.
+Right stick: turn/look. Click to crouch.
+Trigger: ordinary click/interact. Grip: grab/hold.
+A: confirm (X in left-handed menu mode). Tap B: Back.
+Hold physical B for ONE SECOND in ordinary play: pause/day-ending menu.
+Inside menus, documents and terminals, B backs out immediately.
+In normal room play: physical X is keyboard X; physical Y is E/use-item.
+Y is blocked during typing, drafting, editing and VR settings.
 
-KNOWN LIMITATIONS
-Experimental PC VR build. Performance depends on the PC and room.
-ResolutionScale and foveation are available for tuning; no FPS improvement
-or additional headset compatibility is promised by this packaging pass.
-Avoid F6: it generates large diagnostic screenshots in UserData.
-For reports include the room, held item, input and MelonLoader\Latest.log.
-Check the log for personal paths before posting it publicly.
+VR OPTIONS
+Select VR OPTIONS below Quit on the title screen. X is still a shortcut.
+In play, hold both thumbstick clicks. Graphics cycles Performance,
+Balanced and Quality. Restart after changing resolution. This does not
+change headset refresh or enable/disable runtime Spacewarp.
+
+BAG / BLUEPRINT
+Grip behind RIGHT side: bag. Grip behind LEFT side: rolled blueprint.
+Either hand can reach either location. Release grip before a new draw.
+Reach/grip a bag slot for camera, photos, notebook, recorder or blueprint.
+Bring the blueprint forward to unroll it.
+ONE X tap flips it fully between map and the native menu on its back.
+Use the stick/A on a ready page; nothing confirms ending the day for you.
+Bring the map behind your LEFT side to roll/store it automatically.
+No prior B press or grip release is needed for the held map's return.
+B optionally rolls/unrolls the held map and can cancel a pending flip.
+Other tools/gadgets use their grip/reach/release back-stow gesture.
+The native map appears automatically while drafting rooms.
+
+DOORS / TOOLS
+Right grip near a door knob, then twist. Lever handle: grip/push down.
+Shovel/Power Shovel/Jack Hammer: touch dirt mound with the blade.
+Right hand on shovel top grip; left can grip shaft for support.
+Jack Hammer replaces shovel and uses native upgraded digging rewards.
+It does NOT break walls. One successful dig contact requests the reward.
+Hammer/Morning Star: swing the head into supported chests/vases.
+Power Hammer also works on eligible native weak walls/structures.
+Chest key: available keys + empty tool hand, approach and poke latch
+with the right-hand pinched key. Confirm native key prompt normally.
+Pull away to retry after cancelling. Costs and loot stay game-owned.
+
+ROOM INTERACTIONS
+Safes, terminals, utility/garage buttons: touch with a fingertip.
+Lift off between presses. Safe Enter and Clear are included.
+Pump: grip handle and move up/down. Boiler wheels/gas knobs: grip/turn.
+Small switches: pinch; supported sliders: grip/move along their track.
+Wall/Lab levers: grip/pull. Secret books: grip spine/pull.
+Room 8 statues: grip, carry, place in supported native slots.
+Parlor: owned Wind-up Key appears near boxes; poke box/key area.
+Watering can: owned can auto-equips in supported green rooms; tilt/pour.
+Handheld telescope: owned scope auto-equips in Observatory; eye-align 4s.
+Large Observatory telescope: grip supported controls and move them.
+Railroad cart: trigger hold; release trigger to let go. Back cancels.
+The cart release fix also handles tracking/focus loss. Releasing is
+required before grabbing again after cancellation.
+Safehouse boat: aim/reach with either hand and press trigger. The native
+boat must actually be available; the mod doesn't bypass dock unlocks.
+Forklift: existing trigger/grip drive and lift controls remain separate.
+
+CAMERA / READING
+Grab Camera from bag. Holding-hand trigger: shutter.
+Shake physical print to develop. Shoot again after print motor finishes.
+Camera stays in hand when grip is released; back-stow to store it.
+Camera and print can be put away independently. X is fallback camera close.
+Book/document: X enters photo mode; physical RIGHT trigger shoots;
+X returns to reading. Flash and shutter sound still play.
+Outside photo mode, right trigger handles pages. With Magnifying Glass
+owned, left stick moves it automatically; no extra activation chord.
+
+PHOTOS / NOTEBOOK / VOICE
+Grab Photos or Notebook from bag. X switches pencil/recorder.
+Pencil: existing pencil tip/eraser writes/erases.
+Voice: recorder in LEFT hand. HOLD LEFT trigger to talk, RELEASE for text.
+Photo words go on its bottom white border. Y closes the editor.
+Native photo/page browsing remains. Don't quit during recording/saving.
+Standalone recorder: select bag slot; holding-hand trigger records.
+Back-stow when finished; pending voice processing/saving finishes first.
+Saved outside-VR copies: game folder's VR Photos and VR Journal.
+
+OPTIONAL DEVELOPER
+PC F: room picker. PC I: item picker. Use a separate save.
+Overlay bars are hidden by default; pickers still work.

@@ -1,0 +1,1212 @@
+[
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR.dll",
+    "SHA256": "850437531eb2a4fea3bf5582c21b8fbff5f8ea5ff77c2ef0b1fe7890e7c856b3",
+    "Size": 349696
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR.ClaudeFixes.dll",
+    "SHA256": "adb89344d08fd58b69e1d457ec2c147f0b54a4d5238f4bfa9873fb78428358a2",
+    "Size": 358912
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR.Fountain.dll",
+    "SHA256": "7048be4b78223b84c158a185236b3f19bb132c346730b58d69836e2d26135a36",
+    "Size": 9728
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR.JournalArt.dll",
+    "SHA256": "6fd5d12a31dd7a303a087527fe085f3a9342c102e1891fefd22c20c4c6d08c85",
+    "Size": 12288
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR.RecorderPolish.dll",
+    "SHA256": "c9cb20293f01cb49abd873c0be17505ab9176b97f35e209eabc8841c178f45e5",
+    "Size": 28160
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/arms.bpvr",
+    "SHA256": "bd69666f6c102c5d81cd09e77e47311ce89fe78b56eaff2bfe40ff3e9d26d1a6",
+    "Size": 177879
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/Check-OfflineMemo.cmd",
+    "SHA256": "63a3dda743a9fb041c12c1277b3030fb1164b48708c77bd4ccd58388d598da80",
+    "Size": 174
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/CodexVrs.dll",
+    "SHA256": "159cc2246f2e01692d1474554fb833d7af94913b61c58d9a0b2611339cb0f731",
+    "Size": 162816
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/FPS-ARMS-CREDITS.md",
+    "SHA256": "783ca46f1ec19fbe7caaead2ef0e5338e86bc4307bc36ac7336c4bf6cb72b2e0",
+    "Size": 1377
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/fps-arms-rigged.bpvr",
+    "SHA256": "1d0458087542536d3b9f80f739da2cedd6f03c75ecdac420a5d8b4767b0e9a11",
+    "Size": 2720691
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/hands_fp_cel.glb",
+    "SHA256": "acaa8476c0a09a2841f40bedf06755870d407114748dde8dbca46fc81cabaeb7",
+    "Size": 2186072
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/MemoCapture.cs",
+    "SHA256": "982ea45c95e72b39a417b54a3b83ab9f73c95c8c9050f9bc447f23a9cf6eb36f",
+    "Size": 3908
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/NVIDIA-LICENSE.txt",
+    "SHA256": "bab44777f0f4d0333479ea0be6e24c084464a8cb64b98f1253fcc3df70f6eccf",
+    "Size": 1217
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/OfflineMemo.ps1",
+    "SHA256": "aff6a97c2c44031ac4e02325992a50ccb314abba330b850ae4d414b39d0f84d5",
+    "Size": 1628
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/JournalArt/camera-choice-flat.png",
+    "SHA256": "294a2d7c4df5ae7f8c1095315a906f976c4c4ea5fffc94381ad7e1649804b17f",
+    "Size": 994850
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/JournalArt/notebook-choice-flat.png",
+    "SHA256": "7a0afd502e036b9999b9e2376a9ad19755b73e32a29addaaae1fc8c47494a998",
+    "Size": 1148508
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/JournalArt/camera-choice.png",
+    "SHA256": "8a35c1ef90c7d1132a6a0162cd79f27b02c03d73f2ba2c433a1b9468b6a9167f",
+    "Size": 1243350
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/JournalArt/notebook-choice.png",
+    "SHA256": "ee122aaef63334487f4c13a97bfa45f9a5661375e2d5c3ed3644331b0367e7ed",
+    "Size": 1715388
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/Whisper/ggml-base.dll",
+    "SHA256": "61c9c57f49f380896ed54ed3f71735e10a2d986f482c2b0a55e72b47f731b193",
+    "Size": 536064
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/Whisper/ggml-cpu.dll",
+    "SHA256": "eb2f1d023e51c40b27463b5ab165600eb48cb60323740f400b1b62e1c8706c56",
+    "Size": 683008
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/Whisper/ggml-small.en.bin",
+    "SHA256": "c6138d6d58ecc8322097e0f987c32f1be8bb0a18532a3f88f734d1bbf9c41e5d",
+    "Size": 487614201
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/Whisper/ggml.dll",
+    "SHA256": "bcfeaf6e5b59c315fc36e290715aa7a84b22461e968543c13dfcf57df7b1b81d",
+    "Size": 67584
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/Whisper/whisper-cli.exe",
+    "SHA256": "0ff971e410240a0b97117432d771245698f376e06105c011959d2bfc4bb23311",
+    "Size": 480768
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/Whisper/WHISPER-CPP-LICENSE.txt",
+    "SHA256": "e562a2ddfaf8280537795ac5ecd34e3012b6582a147ef69ba6a6a5c08c84757d",
+    "Size": 1078
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/Whisper/WHISPER-MODEL-LICENSE.txt",
+    "SHA256": "b5d65a59060e68c4ff940e1eddfa6f94b2d68fdf58ed7f4dd57721c997e35e9d",
+    "Size": 1063
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Codex/Whisper/whisper.dll",
+    "SHA256": "4037a6567fbb08fc7efda18e4d128a95df9c31ba171af20439d1a93b785d007e",
+    "Size": 483840
+  },
+  {
+    "Path": "Defaults-Only/UserData/BPVR_VR.png",
+    "SHA256": "af007b7665fbaa27e2a693d24e8f64090a2e5286f1bc0ba779aab61fe138bc7b",
+    "Size": 53904
+  },
+  {
+    "Path": "Defaults-Only/UserData/BPVR_smoke.png",
+    "SHA256": "7fb3adce97cc0a3cf6fd855f83f80545d2ad617e4adfbf37314389a1233cd6e2",
+    "Size": 43966
+  },
+  {
+    "Path": "Defaults-Only/UserData/BPVR_puff.png",
+    "SHA256": "af6325cd090b6b15d61d0321737daa231793bf3beac3b6d87724928b2183c937",
+    "Size": 36134
+  },
+  {
+    "Path": "Defaults-Only/UserData/BPVR_select.png",
+    "SHA256": "ca435bad1b372c7a8cc1546b64825186dc8f431006ea0346f1cb07b44607fb82",
+    "Size": 37964
+  },
+  {
+    "Path": "Defaults-Only/UserData/arms.bpvr",
+    "SHA256": "bd69666f6c102c5d81cd09e77e47311ce89fe78b56eaff2bfe40ff3e9d26d1a6",
+    "Size": 177879
+  },
+  {
+    "Path": "Defaults-Only/UserData/Codex-keyboard-Laboratory-Computer.json",
+    "SHA256": "8e40b5635efccdbd260342b7099dbc2a88c74da51072ff9080123246c55e6079",
+    "Size": 207
+  },
+  {
+    "Path": "Defaults-Only/UserData/Codex-keyboard-Office-Computer.json",
+    "SHA256": "d14cd3e9c98f8940da3506b64e7c2c092714b77961a31378c224fd1186144239",
+    "Size": 203
+  },
+  {
+    "Path": "Defaults-Only/UserData/Codex-keyboard-Standalone_Rooms-Computer.json",
+    "SHA256": "edb28c077e5a2529c4e80fdb1c6c58d16b8c8f5b3f4b207f36e95a13e9ce91e0",
+    "Size": 206
+  },
+  {
+    "Path": "Defaults-Only/UserData/Codex-keyboard-Security-Click_Trigger.json",
+    "SHA256": "e696c78853ebbb71803e87520217d7ae443de0ce07925af0852906545c23b90d",
+    "Size": 201
+  },
+  {
+    "Path": "Defaults-Only/UserData/Codex-keyboard-points.json",
+    "SHA256": "8e40b5635efccdbd260342b7099dbc2a88c74da51072ff9080123246c55e6079",
+    "Size": 207
+  },
+  {
+    "Path": "Defaults-Only/UserData/ClaudeFixes-keyboard-Office-Computer.txt",
+    "SHA256": "4da6e6223ee9de792781dec20450d74a28d77f7f98fb38d43676bd40b0747466",
+    "Size": 99
+  },
+  {
+    "Path": "Defaults-Only/UserData/ClaudeFixes-keyboard-shared.txt",
+    "SHA256": "4da6e6223ee9de792781dec20450d74a28d77f7f98fb38d43676bd40b0747466",
+    "Size": 99
+  },
+  {
+    "Path": "Defaults-Only/UserData/BluePrinceVR-RecorderPolish.cfg",
+    "SHA256": "c6b4a26b0c70163a72578f7765a1bb1b2a3fa8cddd39a8a189b42c872aa55b7e",
+    "Size": 219
+  },
+  {
+    "Path": "GameFiles/OPENVR-LICENSE.txt",
+    "SHA256": "e0f0ba2fda3fc45f4ca889b78c8c507818a11d11aaf4411eb10eb2cccb46557c",
+    "Size": 1486
+  },
+  {
+    "Path": "GameFiles/openvr_api.dll",
+    "SHA256": "bab8ac6ef64e68a9ca53315b0014d131088584b2efdfa6db511d67ec03cfcb4a",
+    "Size": 837272
+  },
+  {
+    "Path": "Defaults-Only/UserData/Codex-comfort.json",
+    "SHA256": "4c833dc44b2b34d0e8cbd753d7b67af2ec8d907cab9232256286bc5a9ead5c37",
+    "Size": 75
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR.Backpack.dll",
+    "SHA256": "53dff78c80caadc6a1d42f8ace3fec0b715bad67b28fb4526d5b692f398b96aa",
+    "Size": 2803712
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/recorder.png",
+    "SHA256": "52d929a78e968ba3415212e7b552dcb37997c3a51cc026e447125c321d136a2e",
+    "Size": 1483334
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/backpack-shader.bundle",
+    "SHA256": "641f6c87b2cb0c98823dcc8c1d19f32466dcab80f0bbac9ff13c900b90619b23",
+    "Size": 8681
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/blueprint-paper.bundle",
+    "SHA256": "40632a147553a47068ba9ac548d11220472302e94ef3e246ef85f5d8ec12ea7e",
+    "Size": 7163
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/side-tools.bundle",
+    "SHA256": "35c29876ec5bd19cb2ee6c59f30a1c7e70366fc693c7db9e103a9cf8fc0bad74",
+    "Size": 8056296
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/keychain.bundle",
+    "SHA256": "95b6c862c646afb5d73c21f07ec4b3d8fb5e565a8abf9b1ce5565a837b8e8b43",
+    "Size": 207446
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/extra-tools.bundle",
+    "SHA256": "033037217ca997fda8b191b6923d6bd28f65d00934e8e321e887ca10ac0f1aa6",
+    "Size": 3581311
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/crafted-tools.bundle",
+    "SHA256": "05f3ece2292245cc8dea1ea27788988b97844e11cf34e6700210dda692267552",
+    "Size": 2049978
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/polaroid.bundle",
+    "SHA256": "8e2da2a32c6b29e8e8a142bb3eb98437eda5c695f60df154a6cd9b9d1a582d8b",
+    "Size": 7812
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/broken-lever.bundle",
+    "SHA256": "c75e146fe79f088cfd9de01a8eeed1cea25560784c773819f9739175de8d05ff",
+    "Size": 39007
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/vintage-camera.bundle",
+    "SHA256": "9133fac625cf7f4d5cde5f443acdcd17cd6b7a4b3d0b903d555722942fd2460e",
+    "Size": 1582399
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/power-hammer.bundle",
+    "SHA256": "a5467dddeff27e82483805488de9cde43176ebfe8801e35edc855488453e171a",
+    "Size": 83991
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/held-hammers.bundle",
+    "SHA256": "a43c56e5ac057605ade1a0d2aca85c58c1e4f0207ce7c316da7cecf07e7c3cd9",
+    "Size": 793126
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/held-shovels.bundle",
+    "SHA256": "e0b482620b0544b9fe59f1468c9e66509425b445104b2c07fe84a2589b236fb3",
+    "Size": 2041911
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/BPVRSubmit.dll",
+    "SHA256": "85b506063cbc6386d7b63326b75d235f3637c8f18a4ee6d6a1d89766016af898",
+    "Size": 135680
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-ArcadeHost/BluePrinceVR.ArcadeHost.deps.json",
+    "SHA256": "a2a2b6d6426632b230fe77c4d13b3a5144420c873cd660ef493e78382e876462",
+    "Size": 461
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-ArcadeHost/BluePrinceVR.ArcadeHost.dll",
+    "SHA256": "aa02ab0e44f60d7b87df45e1a08eff30b3bdac9552e472df2b6c3a377602d3a1",
+    "Size": 20480
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-ArcadeHost/BluePrinceVR.ArcadeHost.exe",
+    "SHA256": "a9a3a7b5e633904416aa3643bd59a1df2c5bd9451d076da0e0f09b7ae87ea7a3",
+    "Size": 151040
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-ArcadeHost/BluePrinceVR.ArcadeHost.runtimeconfig.json",
+    "SHA256": "ded3aeb5856a11db0b654a785574490cab55839ebfb17efe9e39b89618fc5b91",
+    "Size": 253
+  },
+  {
+    "Path": "GameFiles/Mods/BluePrinceVR-Backpack/inventory-items.bundle",
+    "SHA256": "ffd2ea8e5477aa8c7619bbf8db688e5c4da46bc31ab35a0d70bcff1743a64696",
+    "Size": 1219020
+  },
+  {
+    "Path": "Optional-Developer/Mods/KeepDevObjects.dll",
+    "SHA256": "8689c1696c237a832ac167ba0ccfdc5dcc7a3dcf6198890fded232ae1a201376",
+    "Size": 8704
+  },
+  {
+    "Path": "GameFiles/BluePrinceVR-Installer/README.txt",
+    "SHA256": "e806989aec5791701e287c9e2d6513c54920d7a67967cf02e426a2ea1014c839",
+    "Size": 15055
+  },
+  {
+    "Path": "GameFiles/BluePrinceVR-Installer/CONTROLS.txt",
+    "SHA256": "f0c05d679535a48f5f548847c6cda2248453b6eb3dd4f26fae17b5497dea20b6",
+    "Size": 4794
+  },
+  {
+    "Path": "GameFiles/BluePrinceVR-Installer/FIRST-RUN.txt",
+    "SHA256": "f98ee9c080521db3993e88f767a3615fcc538e8a3e375ded8677ccaf4d20d462",
+    "Size": 3241
+  },
+  {
+    "Path": "GameFiles/BluePrinceVR-Installer/WHATS-NEW.txt",
+    "SHA256": "0a7c5cbed6133e9d547e36276f6ddfaabc0c1d4c6ca6154aa40c0b8644c39826",
+    "Size": 6390
+  },
+  {
+    "Path": "GameFiles/BluePrinceVR-Installer/MODEL-SOURCES.md",
+    "SHA256": "1b2a48fef6200cef61645ce8ba7184138399f268c73365d8f29babf4c0714da4",
+    "Size": 15951
+  },
+  {
+    "Path": "GameFiles/BluePrinceVR-Installer/THIRD-PARTY-NOTICES.md",
+    "SHA256": "977a794d2770f460a7db19aae1cdb41bb95db291d4018164eda56f61a898c810",
+    "Size": 1915
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/System.Security.Cryptography.ProtectedData.dll",
+    "SHA256": "36f78627daed665491c9955a23e551a32cacfe396578953ccf84ddfd584a8e0b",
+    "Size": 43272
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MonoMod.Utils.dll",
+    "SHA256": "72a5b4249985873d7ecb160cbbed7a1e6540a38ee7618c72c64b9cb068c1438a",
+    "Size": 193024
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MelonLoader.deps.json",
+    "SHA256": "856679e5955ec6f59008e2e920925301112793bf33587466d3a55cab82fb9eee",
+    "Size": 28892
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MelonLoader.NativeHost.deps.json",
+    "SHA256": "e9f257473d71b433a64e4e8084522b3388f368b9f27829cfac88dbe82fe1b7db",
+    "Size": 9284
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Diagnostics.NETCore.Client.dll",
+    "SHA256": "d07b58185b94db7764ec6a0954e1e1071488097ab1aeec47f5822a3761c58919",
+    "Size": 152136
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Mono.Cecil.Mdb.dll",
+    "SHA256": "28cb367972bdc1cd43e4006306af2fd96d37f4ed4b239ee90e1dc7237a93af7f",
+    "Size": 39936
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MonoMod.Backports.dll",
+    "SHA256": "cdd6e9f7bcdb98d2c002f63bfbe85ae80ea36261190a741e64283d769a6c6502",
+    "Size": 29184
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MelonLoader.NativeHost.dll",
+    "SHA256": "66ab84903018c4a10a8a5de45ecea63445ac0d1d0147d6fcb713a91162764b3e",
+    "Size": 14336
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Extensions.Logging.Abstractions.dll",
+    "SHA256": "1fc03424101e21d974b007e1f62d9e27d2c925a7729782d6ace287c0d8cc0cca",
+    "Size": 70456
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Extensions.Options.dll",
+    "SHA256": "d54e0869a366a88cdf670493aad096a66009587d821b9157bb1447394718e058",
+    "Size": 70960
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Extensions.Primitives.dll",
+    "SHA256": "3cc6ae4739180484c58a7a7fb5f6b1b15528301e758da9ecb04db141824e779a",
+    "Size": 51472
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/UnityEngine.Il2CppImageConversionManager.dll",
+    "SHA256": "311f0f73d1ed4db5f16e04024aaa2b2740ed43efd14c10a8ee0c27d9e0f8a91f",
+    "Size": 12800
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MelonLoader.runtimeconfig.json",
+    "SHA256": "d8c6bf06df9cfb54b0828b0986b53e50507fc23a6a52071051ff238eea28ecc4",
+    "Size": 395
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Tomlet.dll",
+    "SHA256": "1d4ba58b6ec7b63a725f20da860462c5cecfed9a0aa561f1859c7968e42f3873",
+    "Size": 114176
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/UnityEngine.Il2CppAssetBundleManager.deps.json",
+    "SHA256": "68d2db43ef84e10a2df05aa0a34fea0e308bd70875d9e8974fe19e1d502c1913",
+    "Size": 1196
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Extensions.Configuration.Abstractions.dll",
+    "SHA256": "636907558a2633950886b9f97c3732f1e88cf3fc1e31f89c66ab516542f7f289",
+    "Size": 32528
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/UnityEngine.Il2CppImageConversionManager.deps.json",
+    "SHA256": "7ad41ade4daf1965f31a67ef5126dd056a48969bab22a6bef5eb8963f93db2fc",
+    "Size": 4688
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/AssetsTools.NET.dll",
+    "SHA256": "60aa43d8fc284c1599b478e8e197e915979fe5b31df7f3f3dd446e78d2435959",
+    "Size": 207872
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/UnityEngine.Il2CppAssetBundleManager.pdb",
+    "SHA256": "24f2f2ad4f2e13298013087b4d89df0f8cc881b3a2bba42a83a696e83f5c4884",
+    "Size": 16436
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/System.Configuration.ConfigurationManager.dll",
+    "SHA256": "77064e278d811b035243774e9ab07cd73317fafeb4d31543a49f485ffe103cc4",
+    "Size": 431376
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/WebSocketDotNet.dll",
+    "SHA256": "a98bf044314c909621f9a8007bb70a66a4c4d29f1ced7de599264c797876fa7a",
+    "Size": 57856
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Mono.Cecil.Rocks.dll",
+    "SHA256": "bf992f3dce364ebcc3200fa7832ef07e20b4e2dbc3a8a6213ce44e3d239db984",
+    "Size": 27136
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MelonLoader.dll",
+    "SHA256": "bdd43dc0f3893c208c95389b863ab61c967ae14204da0dd8051647e754c8709b",
+    "Size": 2011648
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/0Harmony.dll",
+    "SHA256": "6c898933b52149e8bcf6722305c7e4d94add47c9e53b364096f91721624c0877",
+    "Size": 264192
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/System.Security.Permissions.dll",
+    "SHA256": "ce21bf221ec947744fe0dad11b68a12fd963e73f5dd41407513e55419a7d4bb8",
+    "Size": 122680
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/bHapticsLib.dll",
+    "SHA256": "c80ba400773d65498b0139945f7a8096630cc37672e4b64c2f54cbc244811f3f",
+    "Size": 49664
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/AssetRipper.Primitives.dll",
+    "SHA256": "681ba26fd356d9263fdf6afeb1b8f8506802a9503ffa80c9d21e0c4a46743a28",
+    "Size": 29184
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MonoMod.dll",
+    "SHA256": "cfa83184f0cc98ccda1475cd5a62ee83226d0ba63e03b058dbd9ec9a7e40def0",
+    "Size": 68096
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/AsmResolver.PE.File.dll",
+    "SHA256": "8246433a1a6fb4c012c1814acee8a4ff24f3a4fac593569f6a1e343e68c9d8ee",
+    "Size": 40960
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Il2CppInterop.Generator.dll",
+    "SHA256": "84de44214abf234a419a991f0b9dc91e2e39fceb2cc0a4136a79fa369777ff23",
+    "Size": 219648
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/System.Runtime.CompilerServices.Unsafe.dll",
+    "SHA256": "60e5957ad8ceddc68650747a71598c0d84c291943c8693135333335d3dbaaf3b",
+    "Size": 19232
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MelonLoader.xml",
+    "SHA256": "d0313dd7f017cda53629b02da3ab631d7ce1b5beec2eb1e0476ea2544c84a030",
+    "Size": 691873
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Diagnostics.Runtime.dll",
+    "SHA256": "06f9910c8a37f8d4d758538e6dd307de58bcfb3bb13e83658142c08087a25382",
+    "Size": 682024
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Mono.Cecil.Pdb.dll",
+    "SHA256": "a332332633fbcb20e8d50e49b4db7bd1557721417122cf0c5f4c42f2332391d0",
+    "Size": 90112
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Extensions.Configuration.dll",
+    "SHA256": "5ac6a0fff2cba99ed8d9f22ff0215f0a87f35d290bf12e5441ec3abf19d93efb",
+    "Size": 48392
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/AsmResolver.PE.dll",
+    "SHA256": "6ba6d56bf5fd3dd18233b56606a7ed1d42b8c93977b5375716771bf13ea36a1e",
+    "Size": 397824
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Newtonsoft.Json.dll",
+    "SHA256": "a28c251dfe36d881e9e2462e171441b8b0ec156fe3f452602c9149b1b9efe05b",
+    "Size": 723368
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/AsmResolver.dll",
+    "SHA256": "64b50030b34654f12805ec4d2848551e431c5f0bcd65cd70d6fe2845f715fb12",
+    "Size": 67584
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/IndexRange.dll",
+    "SHA256": "4117e1e2273763a95ca2bd69a4ab4b092317bafbe53b3dad7531af4cd751e0a6",
+    "Size": 20840
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Extensions.Logging.dll",
+    "SHA256": "011f0bf961fd7e6567bda75cc38484f16c18711c55885a36bbdfe46b46dba028",
+    "Size": 54064
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Il2CppInterop.HarmonySupport.dll",
+    "SHA256": "f64c53d389fc76a910ffab86f7ac6d27e437b0c7c0c60918565a5d9f34f8ad06",
+    "Size": 26624
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/UnityEngine.Il2CppAssetBundleManager.dll",
+    "SHA256": "eed31c8c3795f2219e1e3e6982ac190eea9f8f2fd7d2319de8f152e6d6e8c7de",
+    "Size": 29696
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Extensions.DependencyInjection.dll",
+    "SHA256": "aef548883308179109f297aeb30ca8485a88a685afb4084dfa8b72873f57ec03",
+    "Size": 100616
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+    "SHA256": "8dbbc4d07b1fd3f9d6ec9be13c1a619cdc88b5ad0a26392bbff6edeb62e1c942",
+    "Size": 66824
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MonoMod.ILHelpers.dll",
+    "SHA256": "0081403bdcef3340f78c7ccded0be6ae0507b397ee8b9980b44f01bf9f93aed1",
+    "Size": 4096
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/System.Diagnostics.DiagnosticSource.dll",
+    "SHA256": "9137a2621f11f561d2d70dabc6efdadf1470ae0eab701a74b68cd415b4fbd85c",
+    "Size": 210232
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MonoMod.RuntimeDetour.dll",
+    "SHA256": "1b3d55f53cb9f9f2550daed4dfd300b247d71698a0ace82bc7b9ff38d563594f",
+    "Size": 112640
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Il2CppInterop.Common.dll",
+    "SHA256": "afa35eb0822336a17d00071ec49e4e2ecaff6f3861e1ae73e4f0963c88610b3e",
+    "Size": 41472
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Bcl.AsyncInterfaces.dll",
+    "SHA256": "f311565f29e9db0038bf712363d0fc2093f434cccd5c570d15d74044ce255b12",
+    "Size": 18736
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Iced.dll",
+    "SHA256": "f058c01321b4cdfc9b9151879e88e59571c8d0ba176fbcf95bc936a8f3d073ed",
+    "Size": 1896448
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/MelonLoader.pdb",
+    "SHA256": "3bffd543d36aed364cba377d6a1daa2e44e50637c0070b60411ac6bdcfd88e8c",
+    "Size": 239932
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/UnityEngine.Il2CppImageConversionManager.pdb",
+    "SHA256": "d363ed0e54bfa502e9fb956e949cbd9500693c9054b6ebb1825229ae87baf178",
+    "Size": 12924
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Microsoft.Bcl.Memory.dll",
+    "SHA256": "b4e28dc3f5564f55296ec462ef29668e4b3e5a66c979b49808af80d9e4821531",
+    "Size": 47928
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Il2CppInterop.Runtime.dll",
+    "SHA256": "3878ce0ba0c60385f76f2ba37e07ad0ee3649d019703aec8695db3402abeedd7",
+    "Size": 284672
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/AsmResolver.DotNet.dll",
+    "SHA256": "045bcdf32427f9bd39bee2620c470372583935c8e89b360931e467dd191d46d1",
+    "Size": 561664
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net6/Mono.Cecil.dll",
+    "SHA256": "831dca77470d85cb6ffbea3072daa7a3df5b7c9fcfd9c3f43674a9be99d4bfcf",
+    "Size": 361472
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/MonoMod.Utils.dll",
+    "SHA256": "c764fa0141e3b9308ae25808baea11feabc0b4843ecfc28ec5c5cc470d6ab420",
+    "Size": 188416
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/Mono.Cecil.Mdb.dll",
+    "SHA256": "5896d1898f616701fff18f3b2c71e6b844d2390ef9f41e1c5fccce8cb27c698e",
+    "Size": 43008
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/MonoMod.Backports.dll",
+    "SHA256": "689c38424ffa30089957f3f3f8942ebf179c15f7330f3f90e479054d0b0d6003",
+    "Size": 242688
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/Tomlet.dll",
+    "SHA256": "0110544d80cd1ef83707a42b07362bf496c514baa31a694e9c20ce572e7870de",
+    "Size": 104448
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/AssetsTools.NET.dll",
+    "SHA256": "6d2dc18921a3fe723e9de7835c4f1ecee055ea3ef73c278411ecb6b16c213a7c",
+    "Size": 208384
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/WebSocketDotNet.dll",
+    "SHA256": "ba8679a52549784963c2544ef401aba87a57d7589e5f8593ef31fdf377f0a314",
+    "Size": 36864
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/Mono.Cecil.Rocks.dll",
+    "SHA256": "54ac539fb5ddc8b44c0e9acd0fcb7324f89d1a072edf8ebc1b06dd691e3d3927",
+    "Size": 27648
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/MelonLoader.dll",
+    "SHA256": "7c0e8c59a4ec02cbcaec91d0393e7caf9886f21d00ad35984b7013bca695225b",
+    "Size": 1951744
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/0Harmony.dll",
+    "SHA256": "9710c782b13742fa23b9fc2c3608263ba6f1d08ef1342898fc26a8f539d3f247",
+    "Size": 263168
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/bHapticsLib.dll",
+    "SHA256": "b3fdfde20e01cfdbab8f151f1d1d1cf43f3f6789da106e813d20eab174671e86",
+    "Size": 48640
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/AssetRipper.Primitives.dll",
+    "SHA256": "80d06dca66453b0fc8aa0ee001d817d076e8e1cb71347e78d22fceae25f3f48f",
+    "Size": 22016
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/AsmResolver.PE.File.dll",
+    "SHA256": "918529a38b421751960c7b11ad2f174cf692b111fbcfcc275b39f683e63040b6",
+    "Size": 42496
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/MelonLoader.xml",
+    "SHA256": "d0313dd7f017cda53629b02da3ab631d7ce1b5beec2eb1e0476ea2544c84a030",
+    "Size": 691873
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/Mono.Cecil.Pdb.dll",
+    "SHA256": "174db44a067f58561510af746f3caeb032037762c57a31c8d9ee32db25174984",
+    "Size": 86528
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/MelonLoader.dll.mdb",
+    "SHA256": "d1bef08feb430c09bb7c410d71a7032f653d86c9f7dd4de9f1d407f9e81b286c",
+    "Size": 248364
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/AsmResolver.PE.dll",
+    "SHA256": "3c38692fd181af0f90d54c4b3525a663d1ede4008b6c796a8b7008c4c464a5c2",
+    "Size": 397312
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/Newtonsoft.Json.dll",
+    "SHA256": "4a3d7bbaa2c347c2f98fa06a7324ebf311f696d9965e9ba0a81a56219420ce01",
+    "Size": 524200
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/AsmResolver.dll",
+    "SHA256": "b225fcc32e88951fe491913cc25cbc08b3b003b553f79f566569a64139e08acb",
+    "Size": 71680
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/MonoMod.exe",
+    "SHA256": "fbc729be008c9c22de637f871877dce5366583a3206d5e484807184f11e38285",
+    "Size": 67072
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/IndexRange.dll",
+    "SHA256": "58022ec83cf23517bafe8bfa1d5f1de37a3672a31bdd73f22a7673f08bbc9dac",
+    "Size": 10240
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/MonoMod.ILHelpers.dll",
+    "SHA256": "8353ade0183f57ca1df618d2aed117262366fd2fe98e1776373f392b8d33c9f9",
+    "Size": 6656
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/ValueTupleBridge.dll",
+    "SHA256": "7d90cbb7c50467e22d2be3e008e5a2e29581c0a9dabf63d89a07c91f5b32d4f8",
+    "Size": 31744
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/MonoMod.RuntimeDetour.dll",
+    "SHA256": "6120a4a1fa3287b149f408eeac04c017c6453e8fd69dbc5d12f1489c087385ab",
+    "Size": 108032
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/MelonLoader.pdb",
+    "SHA256": "fb303be5d6d9d78843c78b2e489e2becd98df1597330457de505ef4976f01c88",
+    "Size": 216584
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/AsmResolver.DotNet.dll",
+    "SHA256": "eab87d5bae62e8b69cf0dd6d163ff2b2e5ba0954e105089ce4c061d9418d634d",
+    "Size": 562688
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net35/Mono.Cecil.dll",
+    "SHA256": "7ae470288fff4a402899c254d0a76cefef55877f5c54f96e83c797cc5bb6e2f6",
+    "Size": 339456
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/MonoMod.Utils.dll",
+    "SHA256": "814a6311e9831ee87e93e0fd34451f274cb1d8103629b6b517fc861374f9ec3f",
+    "Size": 197632
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/Mono.Cecil.Mdb.dll",
+    "SHA256": "570a437dea0271d1d5c8b7d6a408b0b2635bdb0e8b8d5051878f3e7fca087f89",
+    "Size": 43520
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/MonoMod.Backports.dll",
+    "SHA256": "6db3486eb3bfc458c770d61a1391569000cd871dcc7160fb3da2cbfe8d98601a",
+    "Size": 117760
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/Tomlet.dll",
+    "SHA256": "0110544d80cd1ef83707a42b07362bf496c514baa31a694e9c20ce572e7870de",
+    "Size": 104448
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/AssetsTools.NET.dll",
+    "SHA256": "9e04a8fb2040866827981f00d0c212dbfd4bdeb72ea4d659a7b206d4b7608d58",
+    "Size": 207872
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/System.ValueTuple.dll",
+    "SHA256": "e905d102585b22c6df04f219af5cbdbfa7bc165979e9788b62df6dcc165e10f4",
+    "Size": 25232
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/WebSocketDotNet.dll",
+    "SHA256": "e8d266e754193f5970c108f7e8b9664d5c09a5718b5f932392ea4ab311260e9f",
+    "Size": 53760
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/Mono.Cecil.Rocks.dll",
+    "SHA256": "842e09959084eda733aab1a5354d7af79e29594f4d8b91c8792103e5c755ed9b",
+    "Size": 29696
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/MelonLoader.dll",
+    "SHA256": "2c4e6079a6c46ed8a6f7411980255b69095835d3b1ae9d702d9582cc26ec31ac",
+    "Size": 1951232
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/0Harmony.dll",
+    "SHA256": "9846eb9edf64a5e2473342c75b8c5ab37293fb4c27418bc7a5b9a156aa0d7214",
+    "Size": 264704
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/bHapticsLib.dll",
+    "SHA256": "4f2b0b41a86230ba6918b7a0d35b31a1b220273d6776c17c34cdcfbb82132d15",
+    "Size": 49664
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/Microsoft.Bcl.HashCode.dll",
+    "SHA256": "76b1260ce747a317e9b514433b89a81b038411fcabddc6f9c7dbabb0742d8b81",
+    "Size": 23424
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/AssetRipper.Primitives.dll",
+    "SHA256": "f3acf4f3ae593a4dcf5c31c4835a4fbedeb5f8a73b8acd5d8f592354910bb557",
+    "Size": 33280
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/AsmResolver.PE.File.dll",
+    "SHA256": "041b450e31bd473d5ef64ee07c1f0f4e273468b562a321be62a91b3119a061dc",
+    "Size": 42496
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/System.Runtime.CompilerServices.Unsafe.dll",
+    "SHA256": "66409f670315afe8610f17a4d3a1ee52d72b6a46c544cec97544e8385f90ad74",
+    "Size": 16768
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/MelonLoader.xml",
+    "SHA256": "d0313dd7f017cda53629b02da3ab631d7ce1b5beec2eb1e0476ea2544c84a030",
+    "Size": 691873
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/Mono.Cecil.Pdb.dll",
+    "SHA256": "50a1a1a79dc86fcfb8b51249b5325a10dd93d193c52999cf6775d25030a4e606",
+    "Size": 90112
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/AsmResolver.PE.dll",
+    "SHA256": "538f353f338f8d0e483cda6fc1144bc1b2ef85c50adf6210e8cfe64124dff278",
+    "Size": 399360
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/Newtonsoft.Json.dll",
+    "SHA256": "f0c07af0e84d4dd4da4bd7823ba4535bc0481b3bf623ed40b659b68147a6bb75",
+    "Size": 721320
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/AsmResolver.dll",
+    "SHA256": "22529c0e1bab7779af0e20ce1180475a48fd78cdbfdad01a38e645a09b1fdca0",
+    "Size": 67072
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/MonoMod.exe",
+    "SHA256": "fddeae2409911135a1b690a9e5ab996a3d3b08b9bb62056cc3466b82ea30b658",
+    "Size": 67584
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/IndexRange.dll",
+    "SHA256": "d70e5e09c477fa402db5b1de973b9b457dec4ce2048985b24a85d06e9af14595",
+    "Size": 11776
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/MonoMod.ILHelpers.dll",
+    "SHA256": "20df341949b81662e09787e42b66ac3fea601d4cf4b717294f2d72a80860e4ec",
+    "Size": 6656
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/System.Buffers.dll",
+    "SHA256": "accccfbe45d9f08ffeed9916e37b33e98c65be012cfff6e7fa7b67210ce1fefb",
+    "Size": 20856
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/MonoMod.RuntimeDetour.dll",
+    "SHA256": "bd7230c2f2b084ab26a3ec5501023020bc17f47eeb6cfaddd1e34fadb656eefb",
+    "Size": 112128
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/System.Memory.dll",
+    "SHA256": "bf3fb84664f4097f1a8a9bc71a51dcf8cf1a905d4080a4d290da1730866e856f",
+    "Size": 142240
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/MelonLoader.pdb",
+    "SHA256": "e7cdf1d1a765e052586da7b74a5cec499cfc926b7b78dadf3c69fc509ce3c42f",
+    "Size": 216716
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/System.Numerics.Vectors.dll",
+    "SHA256": "1d3ef8698281e7cf7371d1554afef5872b39f96c26da772210a33da041ba1183",
+    "Size": 115856
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/AsmResolver.DotNet.dll",
+    "SHA256": "7f53dc524bd427389b0be3caefef37393b44fdf7fad73cb3d95ce36178b7855b",
+    "Size": 566272
+  },
+  {
+    "Path": "GameFiles/MelonLoader/net472/Mono.Cecil.dll",
+    "SHA256": "c41bdb9ffd3c5f6e17d2382c1012d73703e035e3f1100245fdd4e08c8dc6eb5b",
+    "Size": 363008
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/Demeo.dll",
+    "SHA256": "ee26a3a57ab37154a7e6903619e1806f6c546603645eb3441d340eddd050b74a",
+    "Size": 8704
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/Stress_Level_Zero_Il2Cpp.dll",
+    "SHA256": "d1c0b9ddc245a1d373d44503f4093350d950cdceac114c4907e0e1bd1228c95c",
+    "Size": 6656
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/Demeo.pdb",
+    "SHA256": "f58e557f45a74266612100802a1bfc186bc72aad2d00f6d7754c883492088ab7",
+    "Size": 3296
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/Muse_Dash_Mono.dll",
+    "SHA256": "7de3884c08b5c0c374212004fcbd1aeb6bb1eedda67f60c5ec35623047768362",
+    "Size": 9216
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/Stress_Level_Zero_Il2Cpp.deps.json",
+    "SHA256": "e616e8af9744c236b80e1e0ab899bdab625d7bf3af4747f2499480db4919302b",
+    "Size": 517
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/Muse_Dash_Mono.dll.mdb",
+    "SHA256": "bc371f0b808d8ee143a4102f5a97e381df1be7c748f320ea40e023e070ad2304",
+    "Size": 1711
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/IPA.pdb",
+    "SHA256": "98a598d3bfbdda2228a2fc3aca25e9479ad5758eb297c8ea329ffac83cd7d87e",
+    "Size": 3800
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/IPA.dll.mdb",
+    "SHA256": "bde09aacacde6a503ee0a65354b6d57f8001c47f383b72beb52b7136adef23c7",
+    "Size": 2331
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/Muse_Dash_Mono.pdb",
+    "SHA256": "f840eefb3e9f1f585d436448da630f17a3236bb0b994ca105246dcb0ad247233",
+    "Size": 3136
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/CompatibilityLayers/IPA.dll",
+    "SHA256": "f6cff76cb0a889eabc1be5721f51a05d2e77e37e0d477bc52e5179e37145d200",
+    "Size": 10240
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/NetStandardPatches/System.dll",
+    "SHA256": "862e789e52b83b86f32f612a11e0d8d3c32ac90b4df82f01b755f7240e581ab4",
+    "Size": 1679360
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/NetStandardPatches/System.Xml.dll",
+    "SHA256": "3a7d4c5915516e44ce5d281fbb108b22d43c1342cbc3cee5e40762f24bf56a5f",
+    "Size": 1270272
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/NetStandardPatches/System.Configuration.dll",
+    "SHA256": "f72c6c78a7c4c76b59184ea38c3efcc65ecca45b157deb8ae508eed83a6d88b2",
+    "Size": 124928
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/NetStandardPatches/System.Core.dll",
+    "SHA256": "5aa2b8ffe185461e16256b966802d6aca117d19728cc0c7455cb5f91fd7e0123",
+    "Size": 265728
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.ServiceModel.Internals.dll",
+    "SHA256": "09a4f3e9bcedbc7e657650ff3bd60982f433aa0e7a70a62cd65b4480cd2ffe8c",
+    "Size": 215040
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Data.DataSetExtensions.dll",
+    "SHA256": "e52832d9ecf8e65d0d64e8207c457003c3b5f692dd6dd5628557155513ec000e",
+    "Size": 29696
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Collections.Immutable.dll",
+    "SHA256": "152b3a724ab5c95a7c5893baf38defb003ac467776e1d5c58972748f3bc5ff03",
+    "Size": 259376
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.ComponentModel.Composition.dll",
+    "SHA256": "68c7f8f8182cdf00685cebb656af26fcde72aa380888a1ee98ab986b58564544",
+    "Size": 257024
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Runtime.dll",
+    "SHA256": "e0a7334b7ba419aaab6bd3bb6992d693e689341a9178172c9bf99c2aa6a085bd",
+    "Size": 12288
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/mscorlib.dll",
+    "SHA256": "066a409f9228c9478d506d769978f0065fa42f9ccc97bfa266ee4451f4cbafad",
+    "Size": 4631552
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Security.Cryptography.Cng.dll",
+    "SHA256": "5beb0246fc8cbc617fd7d18dd1f520da8dbbb7ec820e5834d53352836a99bda1",
+    "Size": 18824
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Runtime.CompilerServices.Unsafe.6.0.dll",
+    "SHA256": "fd67abc4c4af10affbcd42fd68a2a7bc361b26714afe6965d4d0d139459d8297",
+    "Size": 19256
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.IO.Compression.FileSystem.dll",
+    "SHA256": "44908b620784ac1c9caa4272cef69e6872b3786240f89a20b3caef81873a7fb2",
+    "Size": 18432
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.EnterpriseServices.dll",
+    "SHA256": "0feb13072956cf69a80da4cad4c170f3ea80c9764454ac7b995fa0156fb21f79",
+    "Size": 44544
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Numerics.dll",
+    "SHA256": "18ae2faab369ef13f93a95716664eac1b984488a03d8bdad34b5d4c7a2b0f28b",
+    "Size": 119296
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Net.Http.dll",
+    "SHA256": "1e979a8532060193273b2024b80556e83ec3155cbb041326b8707de706791db3",
+    "Size": 122880
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Xml.Linq.dll",
+    "SHA256": "e8236d3e1b6e115547ab4ce92e522feb552d76c388fb741f398af070677fd863",
+    "Size": 136704
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Runtime.Serialization.dll",
+    "SHA256": "c9eb8f87514696b7e8aee703b5dbc959d4d317dcdaa0ebe2f7f717d316a3fa58",
+    "Size": 934400
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.IO.Compression.dll",
+    "SHA256": "7baa41be268231ac9c582a854d8f5d5d0b1d9815dfd32f42abdd6530cc354abd",
+    "Size": 114688
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Runtime.CompilerServices.Unsafe.dll",
+    "SHA256": "bfc8f02a96934786ca5a0514a3b657021c12542e215e94b78fdcc74bfeffe3d3",
+    "Size": 16768
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.dll",
+    "SHA256": "b271ae651c463425d5f4e55579bd1fba4af246cce549e322e47f5b463783b326",
+    "Size": 2639360
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Data.dll",
+    "SHA256": "800d5211d0449beb99f0c5aa5107880917863c369052e4ac40cc005171c12ed8",
+    "Size": 2125312
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Xml.dll",
+    "SHA256": "a741ab74c7763758c716ec0ddfb902708e5446053d02400c9cd7d1f9cd0f69a3",
+    "Size": 3160064
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Configuration.dll",
+    "SHA256": "b4505aad4201fea717940591d5c7c59cd3d920f9c96d989ca98ab07e3208b034",
+    "Size": 124928
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Core.dll",
+    "SHA256": "771dbf3f43fe24a8849ae78dc9640e3db9127d543f121e9a00740d71ef9ccab6",
+    "Size": 1113088
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Security.dll",
+    "SHA256": "f54ba987619737424586ce30f5f1e12c1a9580312f905c83a22a62a45d69c41d",
+    "Size": 320000
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Buffers.dll",
+    "SHA256": "762f8fdbe975e05b76be5fe996c53ce7c75e4a2830f2f50b02a5948ef6ba0aeb",
+    "Size": 4608
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Drawing.dll",
+    "SHA256": "362930561b35e759e7ca642fb590621df0ab1041950d27bc7b5f54012f9620e9",
+    "Size": 489984
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Memory.dll",
+    "SHA256": "c4f030a2cba7da7cdcf493257c24560e203d355904aee490d645a935842f834a",
+    "Size": 4608
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/MonoBleedingEdgePatches/System.Transactions.dll",
+    "SHA256": "c1f1b908005857162d29273c6ab144b802fd5df4dc4e44f599da4aa0aad02b49",
+    "Size": 35328
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/Il2CppAssemblyGenerator/Il2CppAssemblyGenerator.dll",
+    "SHA256": "4b9c8a48640befe1840f7ed0a1059db173b22b319c4f684ce7e1d8794802b4dc",
+    "Size": 42496
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/Il2CppAssemblyGenerator/Il2CppAssemblyGenerator.deps.json",
+    "SHA256": "b18a08bd55f02fcd99b134d35077c5b2abff078b9d61b89fda117ba3a3bc8abb",
+    "Size": 514
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/SupportModules/Mono.dll.mdb",
+    "SHA256": "90a5cc3071ac5696f39c06ec4833a4049f1218cbc2cbe0819e4cd7e265089bcb",
+    "Size": 3656
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/SupportModules/Il2Cpp.dll",
+    "SHA256": "2ab2fd9858c4d97457e3ec2f74f4d8ff3a9296e95ceaab079cdbda2302453743",
+    "Size": 36352
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/SupportModules/Il2Cpp.deps.json",
+    "SHA256": "d4543683915bc7160ef8f5910ee961132df2c26c2f2824fbf96905ac48890c10",
+    "Size": 463
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/SupportModules/Mono.pdb",
+    "SHA256": "8d759bd63267e079275eab5152ed690a6945b4cc0b097101d7b1ad369dcf0a5d",
+    "Size": 5160
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Dependencies/SupportModules/Mono.dll",
+    "SHA256": "ddf46054be5cb2855131e2b402197dda03bf74e3b0e6dbdd011dd572afc848f8",
+    "Size": 14848
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Documentation/README.md",
+    "SHA256": "35738dc7ed6804a013829d77ecc6d203bf42577a7650b40b4cc456edc4811f57",
+    "Size": 19267
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Documentation/NOTICE.txt",
+    "SHA256": "081981b2760e887cd845ac478bef503b3b61269b0f3c42007800fa6e00078258",
+    "Size": 199
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Documentation/LICENSE.md",
+    "SHA256": "689a30a20770a4239ec0a994262fde506052b256f3887582f2d51b6974c20b09",
+    "Size": 10953
+  },
+  {
+    "Path": "GameFiles/MelonLoader/Documentation/CHANGELOG.md",
+    "SHA256": "6896ef65bf98706bffb81c7c8a970182717018e57e347a65e6235aa8b9e6ec6a",
+    "Size": 121522
+  },
+  {
+    "Path": "GameFiles/version.dll",
+    "SHA256": "0ce7a4e530c7f83f172a2c44aed45eedb3bdcf06b83760f143a0fba6885fa929",
+    "Size": 11057664
+  },
+  {
+    "Path": "Defaults-Only/UserData/MelonPreferences.cfg",
+    "SHA256": "05c2a102dddf908bc6fbf96200ff061de431fe2d308485032c493bbe1d79e508",
+    "Size": 7980
+  },
+  {
+    "Path": "README.txt",
+    "SHA256": "e806989aec5791701e287c9e2d6513c54920d7a67967cf02e426a2ea1014c839",
+    "Size": 15055
+  },
+  {
+    "Path": "README.md",
+    "SHA256": "e806989aec5791701e287c9e2d6513c54920d7a67967cf02e426a2ea1014c839",
+    "Size": 15055
+  },
+  {
+    "Path": "RELEASE-NOTES.md",
+    "SHA256": "0a7c5cbed6133e9d547e36276f6ddfaabc0c1d4c6ca6154aa40c0b8644c39826",
+    "Size": 6390
+  },
+  {
+    "Path": "CONTROLS.txt",
+    "SHA256": "f0c05d679535a48f5f548847c6cda2248453b6eb3dd4f26fae17b5497dea20b6",
+    "Size": 4794
+  },
+  {
+    "Path": "FIRST-RUN.txt",
+    "SHA256": "f98ee9c080521db3993e88f767a3615fcc538e8a3e375ded8677ccaf4d20d462",
+    "Size": 3241
+  },
+  {
+    "Path": "WHATS-NEW.txt",
+    "SHA256": "0a7c5cbed6133e9d547e36276f6ddfaabc0c1d4c6ca6154aa40c0b8644c39826",
+    "Size": 6390
+  },
+  {
+    "Path": "MODEL-SOURCES.md",
+    "SHA256": "1b2a48fef6200cef61645ce8ba7184138399f268c73365d8f29babf4c0714da4",
+    "Size": 15951
+  },
+  {
+    "Path": "THIRD-PARTY-NOTICES.md",
+    "SHA256": "977a794d2770f460a7db19aae1cdb41bb95db291d4018164eda56f61a898c810",
+    "Size": 1915
+  }
+]

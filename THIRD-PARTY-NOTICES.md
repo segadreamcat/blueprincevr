@@ -24,3 +24,10 @@ authors' rights. This notice does not grant a new blanket license over
 third-party files or substitute for an author's redistribution permission.
 Before public upload, the uploader must confirm rights to the mod and its
 included artwork/components and satisfy the chosen site's requirements.
+
+The optional arcade host is included without ROMs, cartridge saves or any
+emulator core. A separately obtained Nestopia libretro core retains its
+own upstream license; it is not redistributed by this package. The newly
+supplied tool models, textures and sounds are documented in MODEL-SOURCES.md.
+Some redistribution permissions/credits remain unconfirmed. This build is
+for private testing, not a clearance to publish those assets.

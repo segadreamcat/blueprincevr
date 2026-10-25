@@ -1,49 +1,64 @@
-BLUE PRINCE VR - WINDOWS RELEASE - OCTOBER 10, 2026
+BLUE PRINCE VR - FULL PACKAGE 0.1.96 - OCTOBER 25, 2026
 
-Close Blue Prince before installing. Choose the folder containing
-BLUE PRINCE.exe, GameAssembly.dll and BLUE PRINCE_Data, then install.
-An existing licensed Windows PC copy of Blue Prince is required.
+This is Windows PC VR, not a standalone Quest game. You need Blue Prince,
+SteamVR, motion controllers and a headset connected to your PC.
 
-MelonLoader 0.7.3, OpenVR, the VR mods and the English offline voice-note
-model are bundled. There is no separate MelonLoader installation step.
-If missing, the installer downloads and verifies Microsoft .NET 6 Desktop
-and Visual C++ x64 before running their official installers. Internet is
-also needed when MelonLoader prepares game assemblies on the first launch.
+EXE OR MANUAL, NOT BOTH
+Extract the outer package. The Setup EXE is the guided option with
+backups/restore and an optional developer checkbox. Select the actual
+folder containing BLUE PRINCE.exe, GameAssembly.dll and BLUE PRINCE_Data.
+Close the game before installing/updating/restoring.
 
-Connect your headset to the Windows PC, start SteamVR, then launch Blue
-Prince normally from Steam. The first launch can take several minutes.
-This is PC VR, not a Quest standalone Android port or Linux installer.
+For manual setup, extract the Manual ZIP. Copy the contents of GameFiles
+into the game folder, including the root DLLs, not just Mods.
+Defaults-Only contains fresh-install seeds. Existing users should copy
+ONLY missing seed files, not replace preferences/calibration.
+Optional-Developer is separate. Do not copy another person's UserData.
 
-The game intro is restored: SkipIntro = false, including on updates.
-Existing VR preferences are otherwise kept, missing settings are added,
-and empty controller action names are repaired. The included keyboard
-calibration and generic comfort defaults are only installed where missing.
-Your measured hand fit, settings, saves, photos and notes are not replaced.
+The Source ZIP is for building/development, not an installation method.
 
-Tap X for the journal/camera/notebook, hold X for a quick voice memo.
-Tap Y for the floor plan, hold Y for pause. B backs out of menus.
-At the title menu X opens VR options; in play hold both stick clicks.
-Use VR options to select smooth or snap turning and calibrate wrist fit.
-For voice notes select your headset microphone as the Windows recording
-input and enable microphone forwarding in the PC connection app.
+DEPENDENCIES
+The official x64 MelonLoader 0.7.3 files are included. Setup can download
+and verify missing Microsoft runtimes. Manual users need:
 
-Keyboard recalibration: at a computer hold both grips for three seconds,
-then touch Q, P and Z with the right index tip, pressing A after each touch.
-The included keyboard calibration is from the release, not a guarantee
-that every terminal has been tested. See CONTROLS.txt.
+.NET 6 Windows Desktop Runtime x64:
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+Microsoft Visual C++ x64 runtime:
+https://aka.ms/vs/17/release/vc_redist.x64.exe
 
-Avoid F6 unless diagnosing a problem: the mod saves large screenshot sets
-to UserData. No existing screenshots are deleted by this installer.
+Use the .NET 6 x64 Desktop Runtime, not just a different .NET major.
+This legacy mod targets .NET 6; this is not a Microsoft support claim.
+Microsoft runtime installers aren't included in the Manual ZIP.
 
-No developer/cheat/Trailer/Contact mods, personal notebook images, saved
-photos, logs, debug dumps or pre-generated game assembly caches are bundled.
-Existing unrelated mods are left untouched. If updating an older filming
-or developer installation, move its extra DLLs out of Mods yourself with
-the game closed; this installer does not silently remove other mods.
+Connect headset, start SteamVR, then launch through Steam. First launch
+may need internet and several minutes for binding generation. Let it finish.
+Setup is unsigned; verify source/checksum before deciding to run it.
 
-Replaced files are backed up in BluePrinceVR-Backups. Run this EXE again
-and select Restore previous files to reverse its latest installation.
-Restore refuses to overwrite subsequent user edits. Keep the backups.
-Microsoft runtimes stay installed after restoration.
+UPDATING
+Setup preserves personal data and calibration, merges missing VR defaults,
+and restores the normal intro setting. Restore refuses to overwrite files
+edited after installation. Keep its backup folder. Manual copies have no
+automatic rollback: back up your installation/save first.
 
-The EXE is unsigned. No certificate or hosting-site approval is claimed.
+The runtime here is the CPU-verified 0.1.96, including the cart release and
+boat fixes, held blueprint, graphics choices and menu-search optimization.
+The failed experimental render-thread submission/closed-panel budgeting
+paths are disabled/ignored, even if an older config requests them.
+No forced headset refresh, Spacewarp or Windows power setting change.
+
+Developer mode is OFF by default in Setup. F/I room/item pickers work when
+selected, with their front bars hidden by default. Use a separate save.
+Leaving it off doesn't remove a developer mod you already installed.
+
+Pump/Boiler/Utility physical input can be disabled individually with
+PhysicalPumpControls, PhysicalBoilerControls, PhysicalUtilityControls in
+UserData\BluePrinceVR-Backpack.cfg after first launch, retaining legacy
+controls for troubleshooting. Fresh installs have grip screenshots off.
+
+No ROMs, emulator core, native saves, personal captures, recordings, notes,
+extracted game assets, game binaries or generated bindings are shipped.
+All current mod models/bundles, feedback audio and the offline voice model
+are included. Read README.txt/README.md, CONTROLS.txt and the notices.
+
+This is experimental. The newest boat/cart interactions need more headset
+feedback, and CPU checks don't promise native 90 FPS or every-room testing.

@@ -1,50 +1,40 @@
-# Blue Prince VR - Windows - October 10, 2026
+# Blue Prince VR 0.1.96 - October 25, 2026
 
-Experimental Windows PC VR release based on the October 10 Ready package
-with ClaudeFixes c96. Requires an installed copy of Blue Prince, SteamVR,
-a connected PC VR headset and motion controllers.
+ok this is the big update since the October 10 first public build. all the new interactions and assets are in here, plus the latest map, cart, boat and CPU fixes. not just a small patch you need five other downloads for.
 
-## Downloads
+## New Since The First Public Build
 
-- `BluePrinceVR-Windows-Setup-2026-10-10.exe`: guided installation, updates,
-  per-file verification, backups and restore. Unsigned Windows x64 EXE.
-- `BluePrinceVR-Windows-Manual-2026-10-10.zip`: plain manual-install download,
-  with the same VR components and clean MelonLoader files. No installer EXE
-  or nested archives inside. See the ZIP's root README before installing.
-- `SHA256SUMS.txt`: hashes for the two downloadable files.
+- Shoulder backpack inventory with camera, photos, notebook, recorder and blueprint slots. Darker green bag, ownership-based 3D tool/key attachments, fixed straps, stronger key/can/compass swing, and draw/stow sounds and haptics.
+- Native installed-game tool visuals when available, in hand and on the bag. All existing mod/fallback models are retained. No extracted game models or original game binaries are distributed.
+- Right-back bag and left-back rolled paper blueprint. Single-X complete front/back flip, native menu on the back, automatic left-back roll/store, optional B roll/unroll, corrected front orientation and recovery from failed native page transitions. Drafting opens its map automatically again.
+- Physical right-hand door knob twists and lever-handle pushes, with separate grips and attached hand follow-through during drafting/opening. The old automatic door-pointing route is retired.
+- One-contact whole-mound digging, larger dirt effect and persistent held shovel during native rewards. Longer shovel, top-handle grip and optional shaft support. Power Shovel/Jack Hammer use the same loop; larger Jack Hammer replaces shovel and keeps native upgraded loot, not wall breaking.
+- Head-only hammer strikes, broader supported chest/vase contact, impact rumble and restrained solid resistance. No heavy weapon lag. Power Hammer eligible-wall strikes cover a wider/higher area with cel dust; Entrance Hall vases get short debris. Morning Star uses normal hammer interactions.
+- Pinched physical chest key/latch poke, preserving native confirmation/cost. Parlor Wind-up Key contact, white-box fixes, back-of-key pinch and unused-key keychain display.
+- Safe keypad touch including Enter/Clear; terminal fingertip typing and Enter recovery; touchable utility/color/garage buttons; pinch switches and sliders; grip/move pump controls; boiler handle/wheel/valve grips. Legacy room controls remain selectable for troubleshooting.
+- Physical wall/Lab levers, Orchard/matching gas knobs, secret-passage book-spine pulls, Room 8 statue handling and large Observatory telescope control grips. West Gate intended-side interaction guard.
+- Owned watering-can auto-equip in supported green rooms/Aquarium, rear-handle grip, spout-aligned cel water and pouring haptics through the native use action. Owned portable telescope auto-equip in Observatory, four-second eye hold, recessed circular stars and eye/hand alignment fixes.
+- Emerald Bracelet on right wrist; supported owned Battle Axe, repellent, broken lever, battery, detector, compass and other key/tool mounts. Green battery/silver ends, darker matched mod tool palette.
+- Physical Polaroid camera, flash/shutter, ejected print, shake development, repeated photos, locomotion while held and a clearer see-through viewfinder. Camera stays in hand until stored; print stores independently.
+- Larger high-quality photos, opaque white borders and brighter notebook paper. X switches pencil/recorder, recorder stays left, hold/release left trigger for local voice transcription. Photo captions sit on its white bottom border; drawings remain editable.
+- Photograph open documents/books: Press X to use camera, right-trigger screenshot-style Polaroid with flash/sound, X back to reading. Automatic left-stick magnifier while reading, with normal page controls outside photo mode.
+- Local VR Photos/VR Journal libraries with custom folder icons, full-quality images, readable HTML prints/pages, drawings/transcripts and editable data copies. Save-triggered background updates preserve original UserData.
+- Physical Y sends E at supported prompts, X stays X in ordinary play, tap B backs out and hold B opens pause/day-ending menu. Selectable title-screen VR OPTIONS, refreshed controls help and clean developer view for F/I pickers.
+- Casino roulette panel centering and Commissary labels on their wooden boards. Optional arcade uses the actual cabinet controls, B/A order and hand motion; the normal cabinet is untouched without a usable user-supplied setup.
 
-## Included
+## Latest Fixes And Performance Work
 
-Codex VR, ClaudeFixes c96, Fountain, JournalArt, RecorderPolish, the hand and
-journal assets, English offline voice notes, keyboard calibration and
-MelonLoader 0.7.3. OpenVR and the required root loader DLL are supplied.
-Missing Microsoft runtimes are downloaded only by the guided installer,
-from pinned official URLs with checksums verified before execution.
+- Railroad cart releases through its native cleanup route on trigger release/Back/tracking or focus loss, with delayed-input handling and regrab protection. Forklift behavior remains separate.
+- Safehouse boat retains either hand's hover during native pointer entry/update and uses its existing available-dock travel event once per press. No bypassed unlock, forced state or teleport.
+- Late startup check repairs only missing live input bindings, preserving custom bindings and opt-out. Added diagnostics for the intermittent wrong-stick report; its exact cause remains unconfirmed without the tester's failing log.
+- Cached hover hierarchy lookups and relevant screen-object discovery replace repeated full-scene searches. Smaller paced native-model discovery, earlier idle exits, save-driven exports and bounded CPU profiling cut background work.
+- Performance/Balanced/Quality choices adjust eye resolution/fixed foveation; resolution needs restart. Compatible NVIDIA D3D11 hardware is needed for hardware foveation. No automatic Spacewarp/refresh-rate changes or native 90 FPS promise.
+- Retired the render-thread submission and closed-panel budgeting experiments after headset regressions. Existing synchronized submission, working hand rendering and normal main-camera far distance are retained.
 
-The game intro is restored with `SkipIntro = false`. Guided updates keep
-other existing VR values, add missing settings, repair empty controller
-mappings and preserve existing keyboard/comfort/recorder configuration.
-The release uses a generic hand-span default rather than the author's fit.
+## What's In The Download
 
-## Excluded
+Full Package ZIP: Setup EXE, complete Manual ZIP, complete Source ZIP, README, controls, first-run guide, these release notes, source/asset notices, verification and checksums. Optional developer mode is off by default. No ROMs, emulator core, personal data, game binaries or generated game bindings.
 
-No developer-mod option. KeepDevObjects, DevHudSwitch, MoreResourcefulPrince,
-Trailer, the old Contact mod and backup DLLs are not shipped. The public
-download also excludes saved photos/notebooks, the scratch notebook image,
-logs/debug dumps and pre-generated game/Unity assembly caches. The loader
-generates its required game-specific files on the user's own installation.
+CPU checks passed for the included 0.1.96 binary; new packaging also runs installer preservation/restore and archive checks. The newest boat/cart paths still need player headset confirmation. This is an experimental release, not a claim every room or clean PC has been tested. Keep all credits/notices with redistribution.
 
-## Before Playing
-
-Start SteamVR, then launch the game normally from Steam. The first launch
-can take several minutes and requires internet. No account or API key is
-needed for local English voice transcription. This is not a standalone
-Quest/Android or Linux package. Other existing mods are not auto-deleted.
-
-## Known Limitations
-
-This packaging pass does not establish VR gameplay compatibility or claim
-a frame-rate improvement. Reprojection may be needed. The Security terminal
-still needs gameplay confirmation. F6 writes large diagnostic screenshot
-sets to UserData; avoid it unless troubleshooting. Read the included
-controls and calibration instructions before reporting a terminal issue.
+The quiet arcade setup instructions are at the very bottom of the README.
