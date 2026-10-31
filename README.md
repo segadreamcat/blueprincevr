@@ -120,6 +120,7 @@ Developer mode is optional and off by default in Setup. F opens the room picker 
 Source is in the included Source ZIP. Read its build guide: you need your own game references, SDKs and the matching toolchain. Generated game bindings and original game files are deliberately excluded. The pinned core source snapshot has its existing source-to-binary limitations documented; the current add-on and installer source are included alongside it.
 
 Keep `THIRD-PARTY-NOTICES.md` and `MODEL-SOURCES.md` with the package. They retain component credits and the origins of bundled models/audio, including any outstanding attribution notes. This is an unofficial mod, not endorsed by the game's developers or publisher. Blue Prince itself is not included.
+Claude and Codex used to make this mod.
 
 ## one little secret at the bottom
 
